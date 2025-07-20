@@ -1,8 +1,6 @@
-version: '3'
-
 services:
   airflow:
-    image: apache/airflow:2.7.2
+    build: .
     container_name: airflow
     ports:
       - "8080:8080"
@@ -10,9 +8,12 @@ services:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
       - ./data:/opt/airflow/data
+      - .:/opt/airflow
+      - ./transform:/opt/airflow/transform
+      - ./extract:/opt/airflow/extract
+      - ./utils:/opt/airflow/utils
+      - ./configs:/opt/airflow/configs
     command: standalone
-    env_file:
-      - .env
     environment:
       - AIRFLOW__CORE__LOAD_EXAMPLES=False
-
+      - PYTHONPATH=/opt/airflow

@@ -1,0 +1,6073 @@
+IATA,Continent
+GKA,Oceania
+MAG,Oceania
+HGU,Oceania
+LAE,Oceania
+POM,Oceania
+WWK,Oceania
+UAK,North America
+GOH,North America
+SFJ,North America
+THU,North America
+AEY,Europe
+EGS,Europe
+HFN,Europe
+HZK,Europe
+IFJ,Europe
+KEF,Europe
+PFJ,Europe
+RKV,Europe
+SIJ,Europe
+VEY,Europe
+YAM,North America
+YAY,North America
+YAZ,North America
+YBB,North America
+YBC,North America
+YBG,North America
+YBK,North America
+YBL,North America
+YBR,North America
+YCB,North America
+YCD,North America
+YCG,North America
+YCH,North America
+YCL,North America
+YCO,North America
+YCT,North America
+YCW,North America
+YCY,North America
+YZS,North America
+YDA,North America
+YDB,North America
+YDF,North America
+YDL,North America
+YDN,North America
+YDQ,North America
+YEG,North America
+YEK,North America
+YEN,North America
+YET,North America
+YEU,North America
+YEV,North America
+YFB,North America
+YFC,North America
+YFE,North America
+YFO,North America
+YFR,North America
+YFS,North America
+YGK,North America
+YGL,North America
+YGP,North America
+YGQ,North America
+YGR,North America
+YHB,North America
+YHD,North America
+YHI,North America
+YHK,North America
+YHM,North America
+YHU,North America
+YHY,North America
+YHZ,North America
+YIB,North America
+YIO,North America
+YJN,North America
+YJT,North America
+YKA,North America
+YKF,North America
+YKL,North America
+YKY,North America
+YKZ,North America
+YLD,North America
+YLJ,North America
+YLL,North America
+YLT,North America
+YLW,North America
+YMA,North America
+YMJ,North America
+YMM,North America
+YMO,North America
+YMW,North America
+YMX,North America
+YNA,North America
+YND,North America
+YNM,North America
+YOC,North America
+YOD,North America
+YOJ,North America
+YOW,North America
+YPA,North America
+YPE,North America
+YPG,North America
+YPL,North America
+YPN,North America
+YPQ,North America
+YPR,North America
+YPY,North America
+YQA,North America
+YQB,North America
+YQF,North America
+YQG,North America
+YQH,North America
+YQK,North America
+YQL,North America
+YQM,North America
+YQQ,North America
+YQR,North America
+YQT,North America
+YQU,North America
+YQV,North America
+YQW,North America
+YQX,North America
+YQY,North America
+YQZ,North America
+YRB,North America
+YRI,North America
+YRJ,North America
+YRM,North America
+YRT,North America
+YSB,North America
+YSC,North America
+YSJ,North America
+YSM,North America
+YSR,North America
+YSU,North America
+YSY,North America
+YTE,North America
+YTH,North America
+YTR,North America
+YTS,North America
+YTZ,North America
+YUB,North America
+YUL,North America
+YUT,North America
+YUX,North America
+YUY,North America
+YVC,North America
+YVG,North America
+YVM,North America
+YVO,North America
+YVP,North America
+YVQ,North America
+YVR,North America
+YVT,North America
+YVV,North America
+YWA,North America
+YWG,North America
+YWK,North America
+YWL,North America
+YWY,North America
+YXC,North America
+YXD,North America
+YXE,North America
+YXH,North America
+YXJ,North America
+YXL,North America
+YXP,North America
+YXR,North America
+YXS,North America
+YXT,North America
+YXU,North America
+YXX,North America
+YXY,North America
+YYB,North America
+YYC,North America
+YYD,North America
+YYE,North America
+YYF,North America
+YYG,North America
+YYH,North America
+YYJ,North America
+YYL,North America
+YYN,North America
+YYQ,North America
+YYR,North America
+YYT,North America
+YYU,North America
+YYW,North America
+YYY,North America
+YYZ,North America
+YZD,North America
+YZE,North America
+YZF,North America
+YZH,North America
+YZP,North America
+YZR,North America
+YZT,North America
+YZU,North America
+YZV,North America
+YZW,North America
+YZX,North America
+ZFA,North America
+ZFM,North America
+QLD,Africa
+BUJ,Africa
+BJA,Africa
+ALG,Africa
+DJG,Africa
+VVZ,Africa
+TMR,Africa
+GJL,Africa
+MZW,Africa
+AAE,Africa
+CZL,Africa
+TEE,Africa
+HRM,Africa
+TID,Africa
+TIN,Africa
+CFK,Africa
+TAF,Africa
+TLM,Africa
+ORN,Africa
+BFW,Africa
+MUW,Africa
+AZR,Africa
+BSK,Africa
+ELG,Africa
+GHA,Africa
+HME,Africa
+INZ,Africa
+TGR,Africa
+LOO,Africa
+TMX,Africa
+OGX,Africa
+IAM,Africa
+COO,Africa
+OUA,Africa
+BOY,Africa
+ACC,Africa
+TML,Africa
+NYI,Africa
+TKD,Africa
+ABJ,Africa
+BYK,Africa
+DJO,Africa
+HGO,Africa
+MJC,Africa
+SPY,Africa
+ASK,Africa
+ABV,Africa
+AKR,Africa
+BNI,Africa
+CBQ,Africa
+ENU,Africa
+IBA,Africa
+ILR,Africa
+JOS,Africa
+KAD,Africa
+KAN,Africa
+MIU,Africa
+MDI,Africa
+LOS,Africa
+MXJ,Africa
+PHC,Africa
+SKO,Africa
+YOL,Africa
+ZAR,Africa
+MFQ,Africa
+NIM,Africa
+THZ,Africa
+AJY,Africa
+ZND,Africa
+MIR,Africa
+TUN,Africa
+GAF,Africa
+GAE,Africa
+DJE,Africa
+EBM,Africa
+SFA,Africa
+TOE,Africa
+LRL,Africa
+LFW,Africa
+ANR,Europe
+BRU,Europe
+CRL,Europe
+KJK,Europe
+LGG,Europe
+OST,Europe
+OBL,Europe
+AOC,Europe
+IES,Europe
+REB,Europe
+QXH,Europe
+BBH,Europe
+ZMG,Europe
+CBU,Europe
+SXF,Europe
+DRS,Europe
+ERF,Europe
+FRA,Europe
+FMO,Europe
+HAM,Europe
+THF,Europe
+CGN,Europe
+DUS,Europe
+MUC,Europe
+NUE,Europe
+LEJ,Europe
+SCN,Europe
+STR,Europe
+TXL,Europe
+HAJ,Europe
+BRE,Europe
+QEF,Europe
+HHN,Europe
+MHG,Europe
+EIB,Europe
+SGE,Europe
+XFW,Europe
+KEL,Europe
+LBC,Europe
+ESS,Europe
+BFE,Europe
+MGL,Europe
+PAD,Europe
+DTM,Europe
+AGB,Europe
+OBF,Europe
+RBM,Europe
+FDH,Europe
+SZW,Europe
+BYU,Europe
+URD,Europe
+HOQ,Europe
+ZQW,Europe
+ZQL,Europe
+BWE,Europe
+KSF,Europe
+BRV,Europe
+EME,Europe
+WVN,Europe
+BMK,Europe
+NRD,Europe
+FLF,Europe
+GWT,Europe
+KDL,Europe
+URE,Europe
+EPU,Europe
+TLL,Europe
+TAY,Europe
+ENF,Europe
+KEV,Europe
+HEM,Europe
+HEL,Europe
+HYV,Europe
+KTQ,Europe
+IVL,Europe
+JOE,Europe
+JYV,Europe
+KAU,Europe
+KEM,Europe
+KAJ,Europe
+KHJ,Europe
+KOK,Europe
+KAO,Europe
+KTT,Europe
+KUO,Europe
+QLF,Europe
+LPP,Europe
+MHQ,Europe
+MIK,Europe
+OUL,Europe
+POR,Europe
+RVN,Europe
+SVL,Europe
+SOT,Europe
+TMP,Europe
+TKU,Europe
+UTI,Europe
+VAA,Europe
+VRK,Europe
+YLI,Europe
+BFS,Europe
+ENK,Europe
+BHD,Europe
+LDY,Europe
+BHX,Europe
+CVT,Europe
+GLO,Europe
+GBA,Europe
+MAN,Europe
+NQY,Europe
+LYE,Europe
+YEO,Europe
+HAW,Europe
+CWL,Europe
+SWS,Europe
+BRS,Europe
+LPL,Europe
+LTN,Europe
+PLH,Europe
+BOH,Europe
+SOU,Europe
+QLA,Europe
+ACI,Europe
+GCI,Europe
+JER,Europe
+ESH,Europe
+BQH,Europe
+LGW,Europe
+LCY,Europe
+FAB,Europe
+BBS,Europe
+LHR,Europe
+SEN,Europe
+LYX,Europe
+MSE,Europe
+CAX,Europe
+BLK,Europe
+HUY,Europe
+BWF,Europe
+LBA,Europe
+WRT,Europe
+CEG,Europe
+IOM,Europe
+NCL,Europe
+MME,Europe
+EMA,Europe
+KOI,Europe
+LSI,Europe
+WIC,Europe
+ABZ,Europe
+INV,Europe
+GLA,Europe
+EDI,Europe
+ILY,Europe
+PIK,Europe
+BEB,Europe
+SCS,Europe
+DND,Europe
+SYY,Europe
+TRE,Europe
+ADX,Europe
+LMO,Europe
+CBG,Europe
+NWI,Europe
+STN,Europe
+EXT,Europe
+FZO,Europe
+OXF,Europe
+BEX,Europe
+LKZ,Europe
+MHZ,Europe
+QUY,Europe
+FFD,Europe
+BZZ,Europe
+ODH,Europe
+NHT,Europe
+QCY,Europe
+BEQ,Europe
+SQZ,Europe
+HRT,Europe
+WTN,Europe
+KNF,Europe
+MPN,Unknown
+AMS,Europe
+MST,Europe
+EIN,Europe
+GRQ,Europe
+GLZ,Europe
+DHR,Europe
+LEY,Europe
+LWR,Europe
+RTM,Europe
+UTC,Europe
+ENS,Europe
+LID,Europe
+WOE,Europe
+ORK,Europe
+GWY,Europe
+DUB,Europe
+NOC,Europe
+KIR,Europe
+SNN,Europe
+SXL,Europe
+WAT,Europe
+AAR,Europe
+BLL,Europe
+CPH,Europe
+EBJ,Europe
+KRP,Europe
+BYR,Europe
+MRW,Europe
+ODE,Europe
+RKE,Europe
+RNN,Europe
+SGD,Europe
+SKS,Europe
+SQW,Europe
+TED,Europe
+FAE,Europe
+STA,Europe
+AAL,Europe
+LUX,Europe
+AES,Europe
+ANX,Europe
+ALF,Europe
+BNN,Europe
+BOO,Europe
+BGO,Europe
+BJF,Europe
+KRS,Europe
+DLD,Europe
+BDU,Europe
+EVE,Europe
+VDB,Europe
+FRO,Europe
+OSL,Europe
+HAU,Europe
+HAA,Europe
+KSU,Europe
+KKN,Europe
+FAN,Europe
+MOL,Europe
+MJF,Europe
+LKL,Europe
+NTB,Europe
+OLA,Europe
+RRS,Europe
+RYG,Europe
+LYR,Europe
+SKE,Europe
+SRP,Europe
+SSJ,Europe
+TOS,Europe
+TRF,Europe
+TRD,Europe
+SVG,Europe
+GDN,Europe
+KRK,Europe
+KTW,Europe
+POZ,Europe
+RZE,Europe
+SZZ,Europe
+OSP,Europe
+WAW,Europe
+WRO,Europe
+IEG,Europe
+RNB,Europe
+GOT,Europe
+JKG,Europe
+LDK,Europe
+GSE,Europe
+KVB,Europe
+THN,Europe
+KSK,Europe
+MXX,Europe
+NYO,Europe
+KID,Europe
+OSK,Europe
+KLR,Europe
+MMX,Europe
+HAD,Europe
+VXO,Europe
+EVG,Europe
+GEV,Europe
+HUV,Europe
+KRF,Europe
+LYC,Europe
+SDL,Europe
+OER,Europe
+KRN,Europe
+SFT,Europe
+UME,Europe
+VHM,Europe
+AJR,Europe
+ORB,Europe
+VST,Europe
+LLA,Europe
+ARN,Europe
+BMA,Europe
+BLE,Europe
+HLF,Europe
+GVX,Europe
+LPI,Europe
+NRK,Europe
+EKT,Europe
+VBY,Europe
+SPM,Europe
+RMS,Europe
+GHF,Europe
+ZCN,Europe
+FRZ,Europe
+ZNF,Europe
+KZG,Europe
+FCN,Europe
+GKE,Europe
+RLG,Europe
+WBG,Europe
+WIE,Europe
+FEL,Europe
+IGS,Europe
+GUT,Europe
+ALJ,Africa
+AGZ,Africa
+BIY,Africa
+BFN,Africa
+CPT,Africa
+DUR,Africa
+ELS,Africa
+FCB,Africa
+GCJ,Africa
+GRJ,Africa
+HRS,Africa
+HDS,Africa
+JNB,Africa
+KXE,Africa
+KIM,Africa
+KMH,Africa
+KLZ,Africa
+HLA,Africa
+SDB,Africa
+LAY,Africa
+MGH,Africa
+LLE,Africa
+MZQ,Africa
+NCS,Africa
+OVG,Africa
+OUH,Africa
+PLZ,Africa
+PBZ,Africa
+PHW,Africa
+JOH,Africa
+PZB,Africa
+NTY,Africa
+PTG,Africa
+PCF,Africa
+UTW,Africa
+RCB,Africa
+ROD,Africa
+SBU,Africa
+ZEC,Africa
+SIS,Africa
+SZK,Africa
+LTA,Africa
+ULD,Africa
+UTN,Africa
+UTT,Africa
+VRU,Africa
+VIR,Africa
+VRE,Africa
+PRY,Africa
+WKF,Africa
+FRW,Africa
+JWA,Africa
+BBK,Africa
+MUB,Africa
+GBE,Africa
+PKW,Africa
+BZV,Africa
+FTX,Africa
+OUE,Africa
+PNR,Africa
+MTS,Africa
+BGF,Africa
+BBT,Africa
+BSG,Africa
+SSG,Africa
+ASI,Africa
+MRU,Africa
+RRG,Africa
+NKW,Africa
+TKC,Africa
+DLA,Africa
+MVR,Africa
+FOM,Africa
+NGE,Africa
+GOU,Africa
+BFX,Africa
+BPC,Africa
+YAO,Africa
+CGJ,Africa
+LVI,Africa
+LUN,Africa
+MFU,Africa
+MNR,Africa
+NLA,Africa
+KIW,Africa
+HAH,Africa
+NWA,Africa
+AJN,Africa
+DZA,Africa
+RUN,Africa
+ZSE,Africa
+TNR,Africa
+ZVA,Africa
+SMS,Africa
+TMM,Africa
+MOQ,Africa
+DIE,Africa
+WMR,Africa
+ZWA,Africa
+AMB,Africa
+ANM,Africa
+HVA,Africa
+MJN,Africa
+NOS,Africa
+BPY,Africa
+WMN,Africa
+SVB,Africa
+VOH,Africa
+WAI,Africa
+IVA,Africa
+FTU,Africa
+WFI,Africa
+RVA,Africa
+WVK,Africa
+MNJ,Africa
+MXM,Africa
+TLE,Africa
+SSY,Africa
+BUG,Africa
+CAB,Africa
+NOV,Africa
+SVP,Africa
+LAD,Africa
+MEG,Africa
+SPP,Africa
+GXG,Africa
+PBN,Africa
+VHC,Africa
+SZA,Africa
+SDD,Africa
+LUO,Africa
+UGO,Africa
+XGN,Africa
+OYE,Africa
+OKN,Africa
+LBQ,Africa
+BMM,Africa
+POG,Africa
+OMB,Africa
+MKU,Africa
+LBV,Africa
+MVB,Africa
+PCP,Africa
+TMS,Africa
+BEW,Africa
+INH,Africa
+VXC,Africa
+LFB,Africa
+MPM,Africa
+MUD,Africa
+MZB,Africa
+MNC,Africa
+APL,Africa
+POL,Africa
+UEL,Africa
+TET,Africa
+VNX,Africa
+DES,Africa
+SEZ,Africa
+PRI,Africa
+AEH,Africa
+MQQ,Africa
+NDJ,Africa
+FYT,Africa
+BUQ,Africa
+BFO,Africa
+VFA,Africa
+HRE,Africa
+KAB,Africa
+UTA,Africa
+MVZ,Africa
+GWE,Africa
+HWN,Africa
+BLZ,Africa
+KGJ,Africa
+KBQ,Africa
+LLW,Africa
+ZZU,Africa
+MSU,Africa
+FIH,Africa
+NLO,Africa
+MNB,Africa
+FDU,Africa
+KKW,Africa
+MDK,Africa
+BDT,Africa
+GMA,Africa
+KLI,Africa
+LIQ,Africa
+FKI,Africa
+IRP,Africa
+BUX,Africa
+BZU,Africa
+BKY,Africa
+GOM,Africa
+KND,Africa
+FBM,Africa
+KWZ,Africa
+FMI,Africa
+KMN,Africa
+KGA,Africa
+MJM,Africa
+BKO,Africa
+GAQ,Africa
+KYS,Africa
+MZI,Africa
+TOM,Africa
+BJL,Africa
+FUE,Europe
+VDE,Europe
+SPC,Europe
+LPA,Europe
+ACE,Europe
+TFS,Europe
+TFN,Europe
+MLN,Europe
+FNA,Africa
+MLW,Africa
+ROB,Africa
+AGA,Africa
+TTA,Africa
+FEZ,Africa
+ERH,Africa
+MEK,Africa
+OUD,Africa
+GMD,Africa
+RBA,Africa
+CMN,Africa
+RAK,Africa
+NNA,Africa
+OZZ,Africa
+AHU,Africa
+TTU,Africa
+TNG,Africa
+ZIG,Africa
+CSK,Africa
+KLC,Africa
+DKR,Africa
+XLS,Africa
+BXE,Africa
+KGG,Africa
+TUD,Africa
+AEO,Africa
+TIY,Africa
+KFA,Africa
+EMN,Africa
+KED,Africa
+NKC,Africa
+SEY,Africa
+ATR,Africa
+NDB,Africa
+FIG,Africa
+FAA,Africa
+LEK,Africa
+SID,Africa
+BVC,Africa
+MMO,Africa
+SNE,Africa
+VXE,Africa
+ADD,Africa
+AMH,Africa
+AXU,Africa
+BJR,Africa
+DIR,Africa
+GMB,Africa
+GDQ,Africa
+JIM,Africa
+LLI,Africa
+MQX,Africa
+ASO,Africa
+BJM,Africa
+HGA,Africa
+BBO,Africa
+KMU,Africa
+ALY,Africa
+ABS,Africa
+CAI,Africa
+CWE,Africa
+HRG,Africa
+EGH,Africa
+LXR,Africa
+MUH,Africa
+PSD,Africa
+SKV,Africa
+ASW,Africa
+ELT,Africa
+EDL,Africa
+GGM,Africa
+KIS,Africa
+KTL,Africa
+LOK,Africa
+LAU,Africa
+MBA,Africa
+WIL,Africa
+WJR,Africa
+GHT,Africa
+AKF,Africa
+BEN,Africa
+SEB,Africa
+TIP,Africa
+LMQ,Africa
+HUQ,Africa
+LTD,Africa
+GYI,Africa
+KGL,Africa
+KME,Africa
+DOG,Africa
+RSS,Africa
+ELF,Africa
+KSL,Africa
+KDX,Africa
+EBD,Africa
+JUB,Africa
+MAK,Africa
+KRT,Africa
+ARK,Africa
+DAR,Africa
+DOD,Africa
+IRI,Africa
+JRO,Africa
+LKY,Africa
+MYW,Africa
+MWZ,Africa
+PMA,Africa
+TGT,Africa
+ZNZ,Africa
+EBB,Africa
+SRT,Africa
+TIA,Europe
+BOJ,Europe
+GOZ,Europe
+PDV,Europe
+SOF,Europe
+SZR,Europe
+VAR,Europe
+LCA,Asia
+PFO,Asia
+AKT,Asia
+DBV,Europe
+OSI,Europe
+PUY,Europe
+RJK,Europe
+SPU,Europe
+ZAG,Europe
+ZAD,Europe
+ABC,Europe
+ALC,Europe
+LEI,Europe
+OVD,Europe
+ODB,Europe
+BIO,Europe
+BCN,Europe
+BJZ,Europe
+LCG,Europe
+GRO,Europe
+GRX,Europe
+IBZ,Europe
+XRY,Europe
+MJV,Europe
+MAD,Europe
+AGP,Europe
+MAH,Europe
+OZP,Europe
+PNA,Europe
+REU,Europe
+ROZ,Europe
+SLM,Europe
+EAS,Europe
+SCQ,Europe
+LEU,Europe
+TOJ,Europe
+VLC,Europe
+VLL,Europe
+VIT,Europe
+VGO,Europe
+SDR,Europe
+ZAZ,Europe
+SVQ,Europe
+CQF,Europe
+BYF,Europe
+LTQ,Europe
+XVS,Europe
+AGF,Europe
+BOD,Europe
+EGC,Europe
+CNG,Europe
+PIS,Europe
+MCU,Europe
+LIG,Europe
+NIT,Europe
+TLS,Europe
+PUF,Europe
+LDE,Europe
+ANG,Europe
+BVE,Europe
+PGX,Europe
+BIQ,Europe
+ZAO,Europe
+LBI,Europe
+DCM,Europe
+RDZ,Europe
+RYN,Europe
+XMW,Europe
+RCO,Europe
+CMR,Europe
+DLE,Europe
+OBS,Europe
+LPY,Europe
+ETZ,Europe
+BIA,Europe
+CLY,Europe
+FSC,Europe
+AJA,Europe
+PRP,Europe
+SOZ,Europe
+AUF,Europe
+CMF,Europe
+CFE,Europe
+BOU,Europe
+QNJ,Europe
+LYS,Europe
+SYT,Europe
+RNE,Europe
+NCY,Europe
+GNB,Europe
+VAF,Europe
+VHY,Europe
+AUR,Europe
+CHR,Europe
+LYN,Europe
+CEQ,Europe
+EBU,Europe
+CCF,Europe
+MRS,Europe
+NCE,Europe
+XOG,Europe
+PGF,Europe
+CTT,Europe
+MPL,Europe
+BZR,Europe
+AVN,Europe
+MEN,Europe
+BVA,Europe
+EVX,Europe
+LEH,Europe
+XAB,Europe
+ORE,Europe
+XCR,Europe
+URO,Europe
+TUF,Europe
+CET,Europe
+LVA,Europe
+LBG,Europe
+CSF,Europe
+CDG,Europe
+TNF,Europe
+ORY,Europe
+POX,Europe
+VIY,Europe
+NVS,Europe
+XME,Europe
+LIL,Europe
+HZB,Europe
+XCZ,Europe
+BES,Europe
+CER,Europe
+DNR,Europe
+LBY,Europe
+GFR,Europe
+DOL,Europe
+LRT,Europe
+EDM,Europe
+LDV,Europe
+CFR,Europe
+LME,Europe
+RNS,Europe
+LAI,Europe
+UIP,Europe
+NTE,Europe
+SBK,Europe
+MXN,Europe
+VNE,Europe
+SNR,Europe
+BSL,Europe
+DIJ,Europe
+MZM,Europe
+EPL,Europe
+ENC,Europe
+RHE,Europe
+SXB,Europe
+TLN,Europe
+FNI,Europe
+MQC,North America
+FSP,North America
+PYR,Europe
+AGQ,Europe
+AXD,Europe
+VOL,Europe
+JKH,Europe
+IOA,Europe
+HER,Europe
+KSO,Europe
+KIT,Europe
+EFL,Europe
+KLX,Europe
+KGS,Europe
+AOK,Europe
+CFU,Europe
+KSJ,Europe
+KVA,Europe
+KZI,Europe
+LRS,Europe
+LXS,Europe
+LRA,Europe
+JMK,Europe
+MJT,Europe
+PVK,Europe
+RHO,Europe
+GPA,Europe
+CHQ,Europe
+JSI,Europe
+SMI,Europe
+SPJ,Europe
+JTR,Europe
+JSH,Europe
+SKU,Europe
+SKG,Europe
+ZTH,Europe
+BUD,Europe
+DEB,Europe
+CRV,Europe
+BRI,Europe
+FOG,Europe
+TAR,Europe
+LCC,Europe
+PSR,Europe
+BDS,Europe
+SUF,Europe
+CTA,Europe
+LMP,Europe
+PNL,Europe
+PMO,Europe
+REG,Europe
+TPS,Europe
+NSY,Europe
+AHO,Europe
+DCI,Europe
+CAG,Europe
+OLB,Europe
+TTB,Europe
+MXP,Europe
+BGY,Europe
+TRN,Europe
+ALL,Europe
+GOA,Europe
+LIN,Europe
+PMF,Europe
+CUF,Europe
+AVB,Europe
+BZO,Europe
+BLQ,Europe
+TSF,Europe
+FRL,Europe
+VBS,Europe
+TRS,Europe
+RMI,Europe
+VIC,Europe
+QPA,Europe
+VRN,Europe
+VCE,Europe
+SAY,Europe
+CIA,Europe
+FCO,Europe
+EBA,Europe
+QLT,Europe
+NAP,Europe
+PSA,Europe
+FLR,Europe
+GRS,Europe
+PEG,Europe
+LJU,Europe
+MBX,Europe
+POW,Europe
+UHE,Europe
+KLV,Europe
+OSR,Europe
+PED,Europe
+PRV,Europe
+PRG,Europe
+BRQ,Europe
+VOD,Europe
+TLV,Asia
+BEV,Asia
+ETH,Asia
+EIY,Asia
+HFA,Asia
+RPN,Asia
+MTZ,Asia
+VTM,Asia
+VDA,Asia
+MIP,Asia
+SDV,Asia
+MLA,Europe
+GRZ,Europe
+INN,Europe
+LNZ,Europe
+SZG,Europe
+VIE,Europe
+AVR,Europe
+SMA,Europe
+BGC,Europe
+BYJ,Europe
+BGZ,Europe
+CAT,Europe
+FLW,Europe
+FAO,Europe
+GRW,Europe
+HOR,Europe
+TER,Europe
+QLR,Europe
+PDL,Europe
+PIX,Europe
+PRM,Europe
+OPO,Europe
+PXO,Europe
+LIS,Europe
+SJZ,Europe
+VRL,Europe
+VSE,Europe
+OMO,Europe
+SJJ,Europe
+ARW,Europe
+BCM,Europe
+BAY,Europe
+BBU,Europe
+CND,Europe
+CLJ,Europe
+CSB,Europe
+CRA,Europe
+IAS,Europe
+OMR,Europe
+OTP,Europe
+SBZ,Europe
+SUJ,Europe
+SCV,Europe
+TCE,Europe
+TGM,Europe
+TSR,Europe
+GVA,Europe
+SIR,Europe
+EML,Europe
+LUG,Europe
+BRN,Europe
+ZHI,Europe
+ZRH,Europe
+ACH,Europe
+SMV,Europe
+ESB,Asia
+ANK,Asia
+ADA,Asia
+UAB,Asia
+AFY,Asia
+AYT,Asia
+GZT,Asia
+KYA,Asia
+MZH,Asia
+VAS,Asia
+MLX,Asia
+ASR,Asia
+TJK,Asia
+DNZ,Asia
+ISL,Asia
+BZI,Asia
+BDM,Asia
+ESK,Asia
+ADB,Asia
+IGL,Asia
+KCO,Asia
+DLM,Asia
+BXN,Asia
+EZS,Asia
+DIY,Asia
+ERC,Asia
+ERZ,Asia
+TZX,Asia
+VAN,Asia
+BAL,Asia
+SXZ,Asia
+BZY,Europe
+KIV,Europe
+OHD,Europe
+SKP,Europe
+GIB,Europe
+BEG,Europe
+INI,Europe
+TGD,Europe
+PRN,Europe
+TIV,Europe
+BTS,Europe
+KSC,Europe
+PZY,Europe
+SLD,Europe
+TAT,Europe
+NCA,North America
+PLS,North America
+XSC,North America
+BRX,North America
+CBJ,North America
+LRM,North America
+PUJ,North America
+POP,North America
+SDQ,North America
+STI,North America
+CBV,North America
+GUA,North America
+RER,North America
+GSJ,North America
+LCE,North America
+SAP,North America
+GJA,North America
+RTB,North America
+TEA,North America
+TGU,North America
+TJI,North America
+OCJ,North America
+KIN,North America
+MBJ,North America
+POT,North America
+KTP,North America
+ACA,North America
+NTR,North America
+AGU,North America
+HUX,North America
+CVJ,North America
+ACN,North America
+CME,North America
+NCG,North America
+CUL,North America
+CTM,North America
+CEN,North America
+CPE,North America
+CJS,North America
+CUU,North America
+CVM,North America
+CZM,North America
+DGO,North America
+TPQ,North America
+ESE,North America
+GDL,North America
+GYM,North America
+TCN,North America
+HMO,North America
+CLQ,North America
+ISJ,North America
+SLW,North America
+IZT,North America
+LZC,North America
+LMM,North America
+BJX,North America
+LAP,North America
+LTO,North America
+MAM,North America
+MID,North America
+MXL,North America
+MLM,North America
+MTT,North America
+LOV,North America
+MEX,North America
+MTY,North America
+MZT,North America
+NOG,North America
+NLD,North America
+OAX,North America
+PAZ,North America
+PBC,North America
+PPE,North America
+PDS,North America
+UPN,North America
+PVR,North America
+PXM,North America
+QRO,North America
+REX,North America
+SJD,North America
+SFH,North America
+SLP,North America
+TRC,North America
+TGZ,North America
+TIJ,North America
+TAM,North America
+TSL,North America
+TLC,North America
+TAP,North America
+CUN,North America
+VSA,North America
+VER,North America
+ZCL,North America
+ZIH,North America
+ZMM,North America
+ZLO,North America
+BEF,North America
+MGA,North America
+PUZ,North America
+BOC,North America
+CHX,North America
+DAV,North America
+BLB,North America
+PAC,North America
+SYP,North America
+PTY,North America
+BAI,North America
+OTR,North America
+JAP,North America
+GLF,North America
+GPL,North America
+LIR,North America
+LSL,North America
+LIO,North America
+NOB,North America
+SJO,North America
+PMZ,North America
+XQP,North America
+TOO,North America
+SAL,North America
+CYA,North America
+CAP,North America
+JAK,North America
+PAP,North America
+BCA,North America
+BYM,North America
+AVI,North America
+CCC,North America
+CFG,North America
+CYO,North America
+CMW,North America
+SCU,North America
+NBW,North America
+GAO,North America
+HAV,North America
+HOG,North America
+LCL,North America
+MOA,North America
+MZO,North America
+GER,North America
+UPB,North America
+QPD,North America
+SNU,North America
+SZJ,North America
+USS,North America
+VRA,North America
+VTU,North America
+CYB,North America
+GCM,North America
+MAY,North America
+ASD,North America
+MHH,North America
+SAQ,North America
+AXP,North America
+TCB,North America
+CCZ,North America
+GHC,North America
+BIM,North America
+GGT,North America
+ELH,North America
+GHB,North America
+NMC,North America
+RSD,North America
+TYM,North America
+FPO,North America
+IGA,North America
+LGI,North America
+SML,North America
+MYG,North America
+NAS,North America
+DCT,North America
+RCY,North America
+ZSA,North America
+BZE,North America
+AIT,Oceania
+RAR,Oceania
+NAN,Oceania
+SUV,Oceania
+TBU,Oceania
+VAV,Oceania
+TRW,Oceania
+TBF,Oceania
+WLS,Oceania
+APW,Oceania
+PPG,Oceania
+RUR,Oceania
+TUB,Oceania
+AAA,Oceania
+FGU,Oceania
+TIH,Oceania
+REA,Oceania
+FAV,Oceania
+XMH,Oceania
+GMR,Oceania
+KKR,Oceania
+MKP,Oceania
+PKP,Oceania
+TKP,Oceania
+AXR,Oceania
+MVT,Oceania
+TKX,Oceania
+NHV,Oceania
+BOB,Oceania
+RGI,Oceania
+HUH,Oceania
+MOZ,Oceania
+HOI,Oceania
+MAU,Oceania
+RFP,Oceania
+VLI,Oceania
+KNQ,Oceania
+KOC,Oceania
+LIF,Oceania
+GEA,Oceania
+MEE,Oceania
+TOU,Oceania
+UVE,Oceania
+NOU,Oceania
+AKL,Oceania
+TUO,Oceania
+AMZ,Oceania
+CHC,Oceania
+CHT,Oceania
+DUD,Oceania
+GIS,Oceania
+GTN,Oceania
+HKK,Oceania
+HLZ,Oceania
+KKE,Oceania
+KAT,Oceania
+ALR,Oceania
+MON,Oceania
+TEU,Oceania
+MRO,Oceania
+NPL,Oceania
+NSN,Oceania
+IVC,Oceania
+OHA,Oceania
+OAM,Oceania
+PMR,Oceania
+PPQ,Oceania
+ZQN,Oceania
+ROT,Oceania
+TRG,Oceania
+TIU,Oceania
+TWZ,Oceania
+BHE,Oceania
+WKA,Oceania
+WHK,Oceania
+WLG,Oceania
+WIR,Oceania
+WRE,Oceania
+WSZ,Oceania
+WAG,Oceania
+HEA,Asia
+JAA,Asia
+KBL,Asia
+KDH,Asia
+MMZ,Asia
+MZR,Asia
+OAH,Asia
+UND,Asia
+BAH,Asia
+AHB,Asia
+HOF,Asia
+ABT,Asia
+BHH,Asia
+DMM,Asia
+DHA,Asia
+GIZ,Asia
+ELQ,Asia
+URY,Asia
+HAS,Asia
+QJB,Asia
+JED,Asia
+KMC,Asia
+MED,Asia
+EAM,Asia
+AQI,Asia
+RAH,Asia
+RUH,Asia
+RAE,Asia
+SHW,Asia
+SLF,Asia
+TUU,Asia
+TIF,Asia
+TUI,Asia
+EJH,Asia
+YNB,Asia
+ABD,Asia
+DEF,Asia
+AKW,Asia
+GCH,Asia
+OMI,Asia
+MRX,Asia
+AWZ,Asia
+AEU,Asia
+BUZ,Asia
+KIH,Asia
+BDH,Asia
+KHK,Asia
+SXI,Asia
+LVP,Asia
+KSH,Asia
+SDG,Asia
+IFH,Asia
+KKS,Asia
+IFN,Asia
+RAS,Asia
+AJK,Asia
+THR,Asia
+GZW,Asia
+BND,Asia
+JYR,Asia
+KER,Asia
+HDR,Asia
+SYJ,Asia
+XBJ,Asia
+CKT,Asia
+RUD,Asia
+TCX,Asia
+KLM,Asia
+RZR,Asia
+FAZ,Asia
+JAR,Asia
+LFM,Asia
+SYZ,Asia
+KHY,Asia
+TBZ,Asia
+JWN,Asia
+AZD,Asia
+ACZ,Asia
+ZBR,Asia
+ZAH,Asia
+IHR,Asia
+AMM,Asia
+ADJ,Asia
+AQJ,Asia
+OMF,Asia
+KWI,Asia
+BEY,Asia
+KYE,Asia
+AUH,Asia
+AZI,Asia
+DHF,Asia
+DXB,Asia
+FJR,Asia
+RKT,Asia
+SHJ,Asia
+KHS,Asia
+MSH,Asia
+MCT,Asia
+SLL,Asia
+TTH,Asia
+BHW,Asia
+LYP,Asia
+GWD,Asia
+GIL,Asia
+JAG,Asia
+KHI,Asia
+LHE,Asia
+XJM,Asia
+MFG,Asia
+MWD,Asia
+MJD,Asia
+MUX,Asia
+WNS,Asia
+PJG,Asia
+PSI,Asia
+PEW,Asia
+UET,Asia
+RYK,Asia
+RAZ,Asia
+SKZ,Asia
+SDT,Asia
+SUL,Asia
+BDN,Asia
+WAF,Asia
+PZH,Asia
+BSR,Asia
+ALP,Asia
+DAM,Asia
+DEZ,Asia
+LTK,Asia
+PMS,Asia
+DIA,Asia
+CIS,Oceania
+ROP,Oceania
+SPN,Oceania
+UAM,Oceania
+GUM,Oceania
+TIQ,Oceania
+MAJ,Oceania
+KWA,Oceania
+CXI,Oceania
+MDY,Oceania
+TKK,Oceania
+PNI,Oceania
+ROR,Oceania
+KSA,Oceania
+YAP,Oceania
+KNH,Asia
+TTT,Asia
+GNI,Asia
+KHH,Asia
+CYI,Asia
+KYD,Asia
+RMQ,Asia
+TNN,Asia
+HSZ,Asia
+MZG,Asia
+PIF,Asia
+TSA,Asia
+TPE,Asia
+WOT,Asia
+HUN,Asia
+NRT,Asia
+MMJ,Asia
+IBR,Asia
+MUS,Asia
+IWO,Asia
+SHM,Asia
+OBO,Asia
+CTS,Asia
+HKD,Asia
+MMB,Asia
+SHB,Asia
+WKJ,Asia
+IKI,Asia
+UBJ,Asia
+TSJ,Asia
+MBE,Asia
+AKJ,Asia
+OIR,Asia
+RIS,Asia
+KUM,Asia
+FUJ,Asia
+FUK,Asia
+TNE,Asia
+KOJ,Asia
+KMI,Asia
+OIT,Asia
+KKJ,Asia
+KMJ,Asia
+NGS,Asia
+ASJ,Asia
+OKE,Asia
+TKN,Asia
+FKJ,Asia
+QGU,Asia
+KMQ,Asia
+OKI,Asia
+TOY,Asia
+HIJ,Asia
+OKJ,Asia
+IZO,Asia
+YGJ,Asia
+KCZ,Asia
+MYJ,Asia
+ITM,Asia
+TTJ,Asia
+TKS,Asia
+TAK,Asia
+AOJ,Asia
+GAJ,Asia
+SDS,Asia
+HHE,Asia
+HNA,Asia
+AXT,Asia
+MSJ,Asia
+SDJ,Asia
+NJA,Asia
+HAC,Asia
+OIM,Asia
+HND,Asia
+OKO,Asia
+KWJ,Asia
+CHN,Asia
+RSU,Asia
+KAG,Asia
+CJU,Asia
+CHF,Asia
+PUS,Asia
+USN,Asia
+SSN,Asia
+OSN,Asia
+GMP,Asia
+SWU,Asia
+KPO,Asia
+TAE,Asia
+YEC,Asia
+OKA,Asia
+DNA,Asia
+ISG,Asia
+UEO,Asia
+MMD,Asia
+MMY,Asia
+KTD,Asia
+SHI,Asia
+TRA,Asia
+RNJ,Asia
+OGN,Asia
+MNL,Asia
+CBO,Asia
+PAG,Asia
+GES,Asia
+ZAM,Asia
+BAG,Asia
+DTE,Asia
+SJI,Asia
+MBO,Asia
+BQA,Asia
+TAC,Asia
+BCD,Asia
+DGT,Asia
+MPH,Asia
+ILO,Asia
+KLO,Asia
+PPS,Asia
+EUQ,Asia
+COC,South America
+GHU,South America
+JNI,South America
+PRA,South America
+ROS,South America
+SFN,South America
+AEP,South America
+COR,South America
+FDO,South America
+LPG,South America
+EPA,South America
+HOS,South America
+GNR,South America
+MDZ,South America
+LGS,South America
+AFA,South America
+CTC,South America
+SDE,South America
+IRJ,South America
+TUC,South America
+UAQ,South America
+RCU,South America
+VDR,South America
+VME,South America
+LUQ,South America
+CNQ,South America
+RES,South America
+FMA,South America
+IGR,South America
+AOL,South America
+MCS,South America
+PSS,South America
+PRQ,South America
+SLA,South America
+JUJ,South America
+ORA,South America
+ELO,South America
+OYA,South America
+RCQ,South America
+UZU,South America
+EHL,South America
+CRD,South America
+EQS,South America
+REL,South America
+VDM,South America
+PMY,South America
+PUD,South America
+RGA,South America
+RGL,South America
+USH,South America
+ULA,South America
+PMQ,South America
+RZA,South America
+BHI,South America
+CSZ,South America
+OVR,South America
+GPO,South America
+OYO,South America
+MDQ,South America
+NQN,South America
+PEH,South America
+RSA,South America
+BRC,South America
+TDL,South America
+VLG,South America
+CUT,South America
+CPC,South America
+CDJ,South America
+AQA,South America
+AJU,South America
+AFL,South America
+ARU,South America
+BEL,South America
+BGX,South America
+PLU,South America
+BFH,South America
+BSB,South America
+BAU,South America
+BVB,South America
+BPG,South America
+CAC,South America
+CNF,South America
+CGR,South America
+XAP,South America
+CLN,South America
+CCM,South America
+CAW,South America
+CMG,South America
+CWB,South America
+CRQ,South America
+CXJ,South America
+CGB,South America
+CZS,South America
+PPB,South America
+MAO,South America
+JCR,South America
+IGU,South America
+FLN,South America
+FEN,South America
+FOR,South America
+GIG,South America
+GJM,South America
+GYN,South America
+GRU,South America
+GUJ,South America
+ATM,South America
+ITA,South America
+ITB,South America
+IOS,South America
+IPN,South America
+ITR,South America
+IMP,South America
+JDF,South America
+JPA,South America
+JOI,South America
+CPV,South America
+VCP,South America
+LAJ,South America
+LIP,South America
+LDB,South America
+LAZ,South America
+MAB,South America
+MEU,South America
+MGF,South America
+MOC,South America
+PLL,South America
+MCZ,South America
+MCP,South America
+MVF,South America
+MNX,South America
+NVT,South America
+GEL,South America
+NAT,South America
+OYK,South America
+POA,South America
+PHB,South America
+POO,South America
+PFB,South America
+PET,South America
+PNZ,South America
+PNB,South America
+PMG,South America
+PVH,South America
+RBR,South America
+REC,South America
+SDU,South America
+RAO,South America
+SNZ,South America
+SJK,South America
+SLZ,South America
+CGH,South America
+SJP,South America
+SSZ,South America
+SSA,South America
+TMT,South America
+THE,South America
+TFF,South America
+TRQ,South America
+TEC,South America
+TBT,South America
+TUR,South America
+SJL,South America
+PAV,South America
+URG,South America
+UDI,South America
+UBA,South America
+VAG,South America
+BVH,South America
+VIX,South America
+QPS,South America
+ARI,South America
+BBA,South America
+CCH,South America
+CJC,South America
+YAI,South America
+PUQ,South America
+GXQ,South America
+IQQ,South America
+SCL,South America
+ANF,South America
+WPR,South America
+FFU,South America
+LSQ,South America
+WPU,South America
+CCP,South America
+IPC,South America
+ZOS,South America
+VLR,South America
+QRC,South America
+TNM,Antarctica
+LSC,South America
+PZS,South America
+PMC,South America
+WCH,South America
+ZAL,South America
+ATF,South America
+OCC,South America
+CUE,South America
+GPS,South America
+GYE,South America
+LTX,South America
+MRR,South America
+XMS,South America
+MCH,South America
+MEC,South America
+PVO,South America
+UIO,South America
+ETR,South America
+SNC,South America
+TPC,South America
+TUA,South America
+ASU,South America
+AYO,South America
+CIO,South America
+ESG,South America
+PIL,South America
+AXM,South America
+PUU,South America
+ELB,South America
+BGA,South America
+BOG,South America
+BAQ,South America
+BSC,South America
+BUN,South America
+CUC,South America
+CTG,South America
+CLO,South America
+TCO,South America
+CZU,South America
+EJA,South America
+FLA,South America
+GIR,South America
+GPI,South America
+IBE,South America
+IPI,South America
+APO,South America
+MCJ,South America
+LET,South America
+EOH,South America
+MGN,South America
+MTR,South America
+MVP,South America
+MZL,South America
+NVA,South America
+OCV,South America
+OTU,South America
+PCR,South America
+PEI,South America
+PTX,South America
+PPN,South America
+PSO,South America
+PVA,South America
+MQU,South America
+MDE,South America
+RCH,South America
+SJE,South America
+SMR,South America
+ADZ,South America
+SVI,South America
+TME,South America
+AUC,South America
+UIB,South America
+ULQ,South America
+VUP,South America
+VVC,South America
+BJO,South America
+CBB,South America
+CCA,South America
+CIJ,South America
+LPB,South America
+ORU,South America
+POI,South America
+PSZ,South America
+SBL,South America
+SRE,South America
+TJA,South America
+TDD,South America
+VLM,South America
+VVI,South America
+BYC,South America
+PBM,South America
+CAY,South America
+OYP,South America
+AOP,South America
+IBP,South America
+PCL,South America
+CHM,South America
+CIX,South America
+AYP,South America
+ANS,South America
+ATA,South America
+LIM,South America
+JJI,South America
+JAU,South America
+JUL,South America
+ILQ,South America
+TBP,South America
+YMS,South America
+CHH,South America
+IQT,South America
+AQP,South America
+TRU,South America
+PIO,South America
+TPP,South America
+TCQ,South America
+PEM,South America
+PIU,South America
+TYL,South America
+CUZ,South America
+DZO,South America
+MVD,South America
+STY,South America
+AGV,South America
+AAO,South America
+BLA,South America
+BNS,South America
+BRM,South America
+CBL,South America
+CXA,South America
+CLZ,South America
+CAJ,South America
+VCR,South America
+CUP,South America
+CZE,South America
+CUM,South America
+EOR,South America
+EOZ,South America
+GDO,South America
+GUI,South America
+GUQ,South America
+HGE,South America
+ICC,South America
+LSP,South America
+LFR,South America
+MAR,South America
+MRD,South America
+PMV,South America
+CCS,South America
+MUN,South America
+PYH,South America
+PBL,South America
+SCI,South America
+PZO,South America
+PTM,South America
+SVZ,South America
+SBB,South America
+SNV,South America
+STD,South America
+SNF,South America
+SFD,South America
+SOM,South America
+STB,South America
+TUV,South America
+TMO,South America
+VLN,South America
+VLV,South America
+VDP,South America
+LTM,South America
+ANU,North America
+BGI,North America
+DCF,North America
+DOM,North America
+FDF,North America
+SFG,North America
+PTP,North America
+GND,North America
+STT,North America
+STX,North America
+BQN,North America
+FAJ,North America
+SIG,North America
+MAZ,North America
+PSE,North America
+SJU,North America
+SKB,North America
+SLU,North America
+UVF,North America
+AUA,North America
+BON,North America
+CUR,North America
+EUX,North America
+SXM,North America
+AXA,North America
+TAB,North America
+POS,North America
+EIS,North America
+CIW,North America
+MQS,North America
+SVD,North America
+ALA,Asia
+BXH,Asia
+TSE,Asia
+DMB,Asia
+FRU,Asia
+OSS,Asia
+CIT,Asia
+URA,Asia
+PWQ,Asia
+PLX,Asia
+AKX,Asia
+GYD,Asia
+YKS,Asia
+MJZ,Asia
+BQS,Asia
+KHV,Asia
+PVS,Asia
+GDX,Asia
+PWE,Asia
+PKC,Asia
+UUS,Asia
+VVO,Asia
+HTA,Asia
+BTK,Asia
+IKT,Asia
+UUD,Asia
+KBP,Europe
+DOK,Europe
+DNK,Europe
+SIP,Europe
+IEV,Europe
+LWO,Europe
+ODS,Europe
+LED,Asia
+MMK,Asia
+GME,Unknown
+VTB,Unknown
+KGD,Asia
+MHP,Unknown
+MSQ,Unknown
+ABA,Asia
+BAX,Asia
+KEJ,Asia
+OMS,Asia
+KRR,Asia
+MCX,Asia
+MRV,Asia
+STW,Asia
+ROV,Asia
+AER,Asia
+ASF,Asia
+VOG,Asia
+CEK,Asia
+MQF,Asia
+NJC,Asia
+PEE,Asia
+SGC,Asia
+SVX,Asia
+ASB,Asia
+KRW,Asia
+CRZ,Asia
+DYU,Asia
+BHK,Asia
+SKD,Asia
+TAS,Asia
+BZK,Asia
+SVO,Asia
+KLD,Asia
+VOZ,Asia
+VKO,Asia
+SCW,Asia
+KZN,Asia
+REN,Asia
+UFA,Asia
+KUF,Asia
+AMD,Asia
+AKD,Asia
+IXU,Asia
+BOM,Asia
+PAB,Asia
+BHJ,Asia
+IXG,Asia
+BDQ,Asia
+BHO,Asia
+BHU,Asia
+NMB,Asia
+GUX,Asia
+GOI,Asia
+IDR,Asia
+JLR,Asia
+JGA,Asia
+IXY,Asia
+HJR,Asia
+KLH,Asia
+IXK,Asia
+NAG,Asia
+ISK,Asia
+PNQ,Asia
+PBD,Asia
+RAJ,Asia
+RPR,Asia
+SSE,Asia
+STV,Asia
+UDR,Asia
+CMB,Asia
+ACJ,Asia
+BTC,Asia
+RML,Asia
+ADP,Asia
+JAF,Asia
+TRR,Asia
+KZC,Asia
+PNH,Asia
+REP,Asia
+TNX,Asia
+IXV,Asia
+IXA,Asia
+AJL,Asia
+IXB,Asia
+BBI,Asia
+CCU,Asia
+COH,Asia
+DBD,Asia
+GAY,Asia
+IMF,Asia
+IXW,Asia
+JRH,Asia
+IXH,Asia
+IXS,Asia
+IXI,Asia
+DIB,Asia
+MZU,Asia
+PAT,Asia
+IXR,Asia
+RRK,Asia
+VTZ,Asia
+ZER,Asia
+CXB,Asia
+CGP,Asia
+IRD,Asia
+JSR,Asia
+RJH,Asia
+SPD,Asia
+ZYL,Asia
+DAC,Asia
+HKG,Asia
+AGR,Asia
+IXD,Asia
+ATQ,Asia
+BKB,Asia
+VNS,Asia
+KUU,Asia
+BUP,Asia
+BEK,Asia
+IXC,Asia
+KNU,Asia
+DED,Asia
+DEL,Asia
+GWL,Asia
+HSS,Asia
+JDH,Asia
+JAI,Asia
+JSA,Asia
+IXJ,Asia
+KTU,Asia
+LUH,Asia
+IXL,Asia
+LKO,Asia
+IXP,Asia
+PGH,Asia
+SXR,Asia
+TNI,Asia
+LPQ,Asia
+PKZ,Asia
+ZVK,Asia
+NEU,Asia
+VTE,Asia
+MFM,Asia
+BWA,Asia
+JKR,Asia
+KTM,Asia
+PKR,Asia
+SIF,Asia
+BIR,Asia
+AGX,Asia
+BLR,Asia
+BEP,Asia
+VGA,Asia
+CJB,Asia
+COK,Asia
+CCJ,Asia
+CDP,Asia
+CBD,Asia
+BPM,Asia
+IXM,Asia
+IXE,Asia
+MAA,Asia
+IXZ,Asia
+PNY,Asia
+RJA,Asia
+SXV,Asia
+TJV,Asia
+TIR,Asia
+TRZ,Asia
+TRV,Asia
+PBH,Asia
+MLE,Asia
+DMK,Asia
+KDT,Asia
+UTP,Asia
+LPT,Asia
+PRH,Asia
+HHQ,Asia
+TKH,Asia
+PHS,Asia
+NAW,Asia
+KBV,Asia
+SGZ,Asia
+PAN,Asia
+USM,Asia
+HKT,Asia
+UNN,Asia
+HDY,Asia
+TST,Asia
+UTH,Asia
+SNO,Asia
+PXR,Asia
+LOE,Asia
+DAD,Asia
+HAN,Asia
+NHA,Asia
+HUI,Asia
+PQC,Asia
+SGN,Asia
+VBA,Asia
+NYU,Asia
+HEH,Asia
+HOX,Asia
+KET,Asia
+KYP,Asia
+LSH,Asia
+MDL,Asia
+MGZ,Asia
+MYT,Asia
+MOE,Asia
+MOG,Asia
+NMS,Asia
+PAA,Asia
+PBU,Asia
+PRU,Asia
+AKY,Asia
+SNW,Asia
+THL,Asia
+RGN,Asia
+UPG,Asia
+BIK,Asia
+NBX,Asia
+TIM,Asia
+DJJ,Asia
+WMX,Asia
+MKQ,Asia
+GTO,Asia
+PLW,Asia
+MDC,Asia
+PSJ,Asia
+OTI,Asia
+TTE,Asia
+LUW,Asia
+AMQ,Asia
+FKQ,Asia
+KNG,Asia
+BXB,Asia
+MKW,Asia
+SOQ,Asia
+BTU,Asia
+KCH,Asia
+LMN,Asia
+MUR,Asia
+MYY,Asia
+SBW,Asia
+LDU,Asia
+BKI,Asia
+LBU,Asia
+TWU,Asia
+BWN,Asia
+PKU,Asia
+DUM,Asia
+CGK,Asia
+GNS,Asia
+AEG,Asia
+PDG,Asia
+MES,Asia
+FLZ,Asia
+NPO,Asia
+KTG,Asia
+PNK,Asia
+DJB,Asia
+BKS,Asia
+PLM,Asia
+RGT,Asia
+LSX,Asia
+BTJ,Asia
+AOR,Asia
+BWH,Asia
+KBR,Asia
+KUA,Asia
+KTE,Asia
+IPH,Asia
+JHB,Asia
+KUL,Asia
+LGK,Asia
+MKZ,Asia
+TGG,Asia
+PEN,Asia
+UAI,Asia
+DIL,Asia
+BCH,Asia
+QPG,Asia
+TGA,Asia
+XSP,Asia
+SIN,Asia
+ACF,Oceania
+ABM,Oceania
+ASP,Oceania
+BNE,Oceania
+OOL,Oceania
+CNS,Oceania
+CTL,Oceania
+ISA,Oceania
+MCY,Oceania
+MKY,Oceania
+PPP,Oceania
+ROK,Oceania
+TSV,Oceania
+WEI,Oceania
+AVV,Oceania
+ABX,Oceania
+MEB,Oceania
+HBA,Oceania
+LST,Oceania
+MBW,Oceania
+MEL,Oceania
+ADL,Oceania
+JAD,Oceania
+KTA,Oceania
+KGI,Oceania
+KNX,Oceania
+LEA,Oceania
+PHE,Oceania
+PER,Oceania
+UMR,Oceania
+XCH,Oceania
+BWU,Oceania
+CBR,Oceania
+CFS,Oceania
+CDU,Oceania
+DBO,Oceania
+NLK,Oceania
+XRH,Oceania
+SYD,Oceania
+TMW,Oceania
+WGA,Oceania
+PEK,Asia
+HLD,Asia
+TSN,Asia
+TYN,Asia
+CAN,Asia
+CSX,Asia
+KWL,Asia
+NNG,Asia
+SZX,Asia
+CGO,Asia
+WUH,Asia
+FNJ,Asia
+LHW,Asia
+XIY,Asia
+ULN,Asia
+JHG,Asia
+KMG,Asia
+XMN,Asia
+KHN,Asia
+FOC,Asia
+HGH,Asia
+NGB,Asia
+NKG,Asia
+HFE,Asia
+TAO,Asia
+SHA,Asia
+YNT,Asia
+CKG,Asia
+KWE,Asia
+CTU,Asia
+XIC,Asia
+KHG,Asia
+HTN,Asia
+URC,Asia
+HRB,Asia
+MDG,Asia
+DLC,Asia
+PVG,Asia
+TOD,Asia
+SZB,Asia
+NTQ,Asia
+HBE,Africa
+BTI,North America
+LUR,North America
+PIZ,North America
+ITO,North America
+ORL,North America
+BTT,North America
+UTO,North America
+FYU,North America
+SVW,North America
+FRN,North America
+TLJ,North America
+CZF,North America
+BED,North America
+SNP,North America
+EHM,North America
+STG,North America
+ILI,North America
+PTU,North America
+BMX,North America
+OSC,North America
+OAR,North America
+MHR,North America
+BYS,North America
+FSM,North America
+MRI,North America
+GNT,North America
+PNC,North America
+SVN,North America
+GFK,North America
+PBF,North America
+NSE,North America
+HNM,North America
+PRC,North America
+TTN,North America
+BOS,North America
+SUU,North America
+RME,North America
+ENV,North America
+BFM,North America
+OAK,North America
+OMA,North America
+OGG,North America
+ICT,North America
+MCI,North America
+MSN,North America
+DLG,North America
+HRO,North America
+PHX,North America
+BGR,North America
+FXE,North America
+GGG,North America
+AND,North America
+GEG,North America
+HWO,North America
+SFO,North America
+CTB,North America
+ARA,North America
+GNV,North America
+MEM,North America
+DUG,North America
+BIG,North America
+CNW,North America
+ANN,North America
+CAR,North America
+LRF,North America
+HUA,North America
+POB,North America
+DHT,North America
+DLF,North America
+LAX,North America
+ANB,North America
+CLE,North America
+DOV,North America
+CVG,North America
+FME,North America
+HON,North America
+JNU,North America
+LFT,North America
+EWR,North America
+BOI,North America
+INS,North America
+GCK,North America
+MOT,North America
+HHI,North America
+MXF,North America
+DAL,North America
+FCS,North America
+HLN,North America
+NKX,North America
+LUF,North America
+HHR,North America
+HUL,North America
+END,North America
+NTD,North America
+EDW,North America
+LCH,North America
+KOA,North America
+MYR,North America
+NLC,North America
+ACK,North America
+FAF,North America
+HOP,North America
+DCA,North America
+NHK,North America
+PSX,North America
+BYH,North America
+ACY,North America
+TIK,North America
+ECG,North America
+PUB,North America
+PQI,North America
+GRF,North America
+ADQ,North America
+UPP,North America
+FLL,North America
+INL,North America
+SLC,North America
+CDS,North America
+BIX,North America
+LSF,North America
+NQI,North America
+FRI,North America
+MDT,North America
+LNK,North America
+LAN,North America
+MUE,North America
+MSS,North America
+HKY,North America
+SPG,North America
+FMY,North America
+IAH,North America
+ADW,North America
+INT,North America
+VCV,North America
+CEW,North America
+PHN,North America
+BFL,North America
+ELP,North America
+HRL,North America
+CAE,North America
+DMA,North America
+NPA,North America
+PNS,North America
+RDR,North America
+HOU,North America
+BFK,North America
+ORT,North America
+PAQ,North America
+PIT,North America
+BRW,North America
+EFD,North America
+NUW,North America
+ALI,North America
+VAD,North America
+MIA,North America
+SEA,North America
+CHA,North America
+BDR,North America
+JAN,North America
+GLS,North America
+LGB,North America
+HDH,North America
+IPT,North America
+IND,North America
+SZL,North America
+AKC,North America
+GWO,North America
+HPN,North America
+FOK,North America
+JBR,North America
+XSD,North America
+LNA,North America
+NZY,North America
+BIF,North America
+YUM,North America
+CNM,North America
+DLH,North America
+BET,North America
+LOU,North America
+FHU,North America
+LIH,North America
+HUF,North America
+HVR,North America
+MWH,North America
+MPV,North America
+RIC,North America
+SHV,North America
+CDV,North America
+ORF,North America
+BPT,North America
+SAV,North America
+HIF,North America
+OME,North America
+PIE,North America
+MNM,North America
+CXO,North America
+SCC,North America
+SAT,North America
+ROC,North America
+COF,North America
+TEB,North America
+RCA,North America
+RDU,North America
+DAY,North America
+ENA,North America
+MLC,North America
+IAG,North America
+CFD,North America
+LIY,North America
+PHF,North America
+ESF,North America
+LTS,North America
+TUS,North America
+MIB,North America
+BAB,North America
+IKK,North America
+GSB,North America
+PVD,North America
+SBY,North America
+BUR,North America
+DTW,North America
+TPA,North America
+PMB,North America
+POE,North America
+EIL,North America
+HIB,North America
+LFK,North America
+MAF,North America
+GRB,North America
+ADM,North America
+WRI,North America
+AGS,North America
+ISN,North America
+LIT,North America
+SWF,North America
+BDE,North America
+SAC,North America
+HOM,North America
+TBN,North America
+MGE,North America
+SKA,North America
+HTL,North America
+PAM,North America
+DFW,North America
+MLB,North America
+TCM,North America
+AUS,North America
+LCK,North America
+MQT,North America
+TYS,North America
+HLR,North America
+STL,North America
+MIV,North America
+SPS,North America
+LUK,North America
+ATL,North America
+MER,North America
+MCC,North America
+GRR,North America
+INK,North America
+FAT,North America
+VRB,North America
+IPL,North America
+BNA,North America
+LRD,North America
+EDF,North America
+OTZ,North America
+AOO,North America
+DYS,North America
+ELD,North America
+LGA,North America
+TLH,North America
+DPA,North America
+ACT,North America
+AUG,North America
+NIP,North America
+MKL,North America
+MKK,North America
+FTK,North America
+SJT,North America
+CXL,North America
+CIC,North America
+BTV,North America
+JAX,North America
+DRO,North America
+IAD,North America
+CLL,North America
+SFF,North America
+MKE,North America
+ABI,North America
+COU,North America
+PDX,North America
+TNT,North America
+PBI,North America
+FTW,North America
+OGS,North America
+FMH,North America
+BFI,North America
+SKF,North America
+HNL,North America
+DSM,North America
+EWN,North America
+SAN,North America
+MLU,North America
+SSC,North America
+ONT,North America
+GVT,North America
+ROW,North America
+DET,North America
+BRO,North America
+DHN,North America
+WWD,North America
+NFL,North America
+MTC,North America
+FMN,North America
+CRP,North America
+SYR,North America
+NQX,North America
+MDW,North America
+SJC,North America
+HOB,North America
+PNE,North America
+DEN,North America
+PHL,North America
+SUX,North America
+MCN,North America
+TCS,North America
+PMD,North America
+RND,North America
+NJK,North America
+CMH,North America
+FYV,North America
+FSI,North America
+FFO,North America
+GAL,North America
+MWL,North America
+IAB,North America
+NBG,North America
+BFT,North America
+TXK,North America
+PBG,North America
+APG,North America
+TCC,North America
+ANC,North America
+GRK,North America
+BLI,North America
+NQA,North America
+EKN,North America
+HFD,North America
+SFZ,North America
+MOB,North America
+NUQ,North America
+SAF,North America
+BKH,North America
+DRI,North America
+BSF,North America
+OLS,North America
+MCF,North America
+BLV,North America
+OPF,North America
+DRT,North America
+RSW,North America
+AKN,North America
+MUI,North America
+JHM,North America
+JFK,North America
+HST,North America
+RAL,North America
+FLV,North America
+WAL,North America
+HMN,North America
+NXX,North America
+CYS,North America
+SCK,North America
+CHS,North America
+RNO,North America
+KTN,North America
+YIP,North America
+VBG,North America
+BHM,North America
+NEL,North America
+SYA,North America
+LSV,North America
+RIV,North America
+MOD,North America
+SMF,North America
+UGN,North America
+COS,North America
+BUF,North America
+SKY,North America
+PAE,North America
+MUO,North America
+CDC,North America
+BDL,North America
+MFE,North America
+NGU,North America
+CEF,North America
+LBB,North America
+ORD,North America
+BCT,North America
+FAI,North America
+CVS,North America
+NGF,North America
+OFF,North America
+GKN,North America
+ART,North America
+PSP,North America
+AMA,North America
+FOD,North America
+BAD,North America
+FOE,North America
+COT,North America
+ILM,North America
+BTR,North America
+TYR,North America
+BWI,North America
+HBR,North America
+LNY,North America
+AEX,North America
+WSD,North America
+CDB,North America
+TUL,North America
+SIT,North America
+ISP,North America
+MSP,North America
+ILG,North America
+DUT,North America
+MSY,North America
+PWM,North America
+OKC,North America
+ALB,North America
+VDZ,North America
+LFI,North America
+SNA,North America
+CBM,North America
+TMB,North America
+NTU,North America
+GUS,North America
+CPR,North America
+VPS,North America
+SEM,North America
+EYW,North America
+CLT,North America
+LAS,North America
+MCO,North America
+FLO,North America
+GTF,North America
+YNG,North America
+FBK,North America
+WRB,North America
+BKK,Asia
+NAH,Asia
+MXB,Asia
+SQR,Asia
+TTR,Asia
+KDI,Asia
+SBG,Asia
+TSY,Asia
+MLG,Asia
+BDO,Asia
+CBN,Asia
+JOG,Asia
+CXP,Asia
+PCB,Asia
+SRG,Asia
+BTH,Asia
+TJQ,Asia
+PGK,Asia
+TNJ,Asia
+SIQ,Asia
+BDJ,Asia
+BTW,Asia
+PKN,Asia
+PKY,Asia
+MOF,Asia
+ENE,Asia
+RTG,Asia
+KOE,Asia
+LBJ,Asia
+BPN,Asia
+TRK,Asia
+SRI,Asia
+TSX,Asia
+AMI,Asia
+BMU,Asia
+WGP,Asia
+SUB,Asia
+SOC,Asia
+ICN,Asia
+CNX,Asia
+CEI,Asia
+NST,Asia
+NAK,Asia
+KOP,Asia
+UBP,Asia
+KKC,Asia
+THS,Asia
+DPS,Asia
+ATH,Europe
+NGO,Asia
+UKB,Asia
+PUW,North America
+LWS,North America
+ELM,North America
+ITH,North America
+MRY,North America
+SBA,North America
+DAB,North America
+LPX,Europe
+RIX,Europe
+SQQ,Europe
+HLJ,Europe
+KUN,Europe
+PLQ,Europe
+VNO,Europe
+PNV,Europe
+EVN,Asia
+LWN,Asia
+ASA,Africa
+ASM,Africa
+MSW,Africa
+GZA,Asia
+BUS,Asia
+KUT,Asia
+TBS,Asia
+RIY,Asia
+TAI,Asia
+HOD,Asia
+ADE,Asia
+AXK,Asia
+AAY,Asia
+SAH,Asia
+BHN,Asia
+SCT,Asia
+FMM,Europe
+NAV,Asia
+EZE,South America
+EBL,Asia
+EMD,Oceania
+HEW,Europe
+KIX,Asia
+JRB,North America
+TAG,Asia
+JAV,North America
+JCH,North America
+JEG,North America
+PMI,Europe
+DRW,Oceania
+URT,Asia
+TKA,North America
+GZM,Europe
+HVN,North America
+AVL,North America
+GSO,North America
+FSD,North America
+AYQ,Oceania
+MHT,North America
+APF,North America
+RDN,Asia
+SDF,North America
+CHO,North America
+ROA,North America
+LEX,North America
+EVV,North America
+ABQ,North America
+BZN,North America
+BIL,North America
+BTM,North America
+TVC,North America
+FRS,North America
+BHB,North America
+RKD,North America
+JAC,North America
+RFD,North America
+DME,Asia
+SYX,Asia
+MFN,Oceania
+LJG,Asia
+GSP,North America
+BMI,North America
+GPT,North America
+AZO,North America
+TOL,North America
+FWA,North America
+DEC,North America
+CID,North America
+LSE,North America
+CWA,North America
+PIA,North America
+ATW,North America
+RST,North America
+CMI,North America
+MHK,North America
+KGC,Oceania
+HVB,Oceania
+DLU,Asia
+MZV,Asia
+SSH,Africa
+FKL,North America
+NBO,Africa
+SEU,Africa
+FTE,South America
+ARM,Oceania
+GJT,North America
+SGU,North America
+DWH,North America
+SRQ,North America
+BDA,North America
+VNY,North America
+MLI,North America
+PFN,North America
+HIR,Oceania
+PPT,Oceania
+INU,Oceania
+FUN,Oceania
+OVB,Asia
+XKH,Asia
+BIS,North America
+TEX,North America
+HGN,Asia
+RAP,North America
+CLD,North America
+FNT,North America
+DVO,Asia
+FNC,Europe
+STM,South America
+KOS,Asia
+YOA,North America
+NPE,Oceania
+LEV,Oceania
+LXA,Asia
+RDD,North America
+EUG,North America
+IDA,North America
+MFR,North America
+KBZ,Oceania
+RDM,North America
+PCN,Oceania
+WDH,Africa
+YWH,North America
+TNA,Asia
+CZX,Asia
+YBP,Asia
+TJM,Asia
+CAK,North America
+HSV,North America
+PKB,North America
+MGM,North America
+TRI,North America
+PAH,North America
+JIB,Africa
+HAK,Asia
+MFA,Africa
+PGA,North America
+UII,North America
+FCA,North America
+MBS,North America
+BGM,North America
+BGW,Asia
+NNT,Asia
+ROI,Asia
+BFV,Asia
+TDX,Asia
+BLH,North America
+IQA,Asia
+TQD,Asia
+XQC,Asia
+CRK,Asia
+SDK,Asia
+LXG,Asia
+ODY,Asia
+SHE,Asia
+DOY,Asia
+MNI,North America
+PSG,North America
+LYA,Asia
+XUZ,Asia
+MWQ,Asia
+KHM,Asia
+DLI,Asia
+VDH,Asia
+VKG,Asia
+CAH,Asia
+VCL,Asia
+TBB,Asia
+PYY,Asia
+BWK,Europe
+NSI,Africa
+CKY,Africa
+AAH,Europe
+FKB,Europe
+SFB,North America
+JST,North America
+LUA,Asia
+BHP,Asia
+LDN,Asia
+JMO,Asia
+NGX,Asia
+PPL,Asia
+RUM,Asia
+DNP,Asia
+RUK,Asia
+JUM,Asia
+TPJ,Asia
+TMI,Asia
+SKH,Asia
+IMK,Asia
+DOP,Asia
+BJH,Asia
+DHI,Asia
+MWX,Asia
+JTY,Europe
+JIK,Europe
+JKL,Europe
+MLO,Europe
+JNX,Europe
+PAS,Europe
+KZS,Europe
+RMF,Africa
+NRN,Europe
+USU,Asia
+BXU,Asia
+DPL,Asia
+LAO,Asia
+LGP,Asia
+OZC,Asia
+CEB,Asia
+NOD,Europe
+JUI,Europe
+BPS,South America
+QIG,South America
+PMW,South America
+CLV,South America
+MSO,North America
+BKQ,Oceania
+BDB,Oceania
+GCN,North America
+SGR,North America
+APA,North America
+CVN,North America
+FST,North America
+LVS,North America
+IWS,North America
+LRU,North America
+BKD,North America
+TPL,North America
+OZA,North America
+KDM,Asia
+LAK,North America
+YWJ,North America
+ZFN,North America
+YGH,North America
+TAH,Oceania
+YPC,North America
+SRZ,South America
+SAB,North America
+EGE,North America
+SKN,Europe
+CGF,North America
+MFD,North America
+CSG,North America
+LAW,North America
+FNL,North America
+FLG,North America
+TVL,North America
+TWF,North America
+MVY,North America
+CON,North America
+GON,North America
+STC,North America
+BPE,Asia
+GTR,North America
+GOJ,Asia
+HQM,North America
+ERI,North America
+HYA,North America
+SPR,North America
+SDX,North America
+MGW,North America
+CRW,North America
+AVP,North America
+BJI,North America
+THG,Oceania
+FGI,Oceania
+BNK,Oceania
+FAR,North America
+MKC,North America
+RBE,Asia
+GCC,North America
+TOF,Asia
+NZJ,North America
+PHY,Asia
+CJM,Asia
+JZH,Asia
+SWA,Asia
+GEO,South America
+AGT,South America
+OGL,South America
+KAI,South America
+DNH,Asia
+AOI,Europe
+TCP,Africa
+LYB,North America
+BJV,Asia
+TBJ,Africa
+SAW,Asia
+SCE,North America
+BME,Oceania
+NTL,Oceania
+KLU,Europe
+HFT,Europe
+HVG,Europe
+MEH,Europe
+VDS,Europe
+IKA,Asia
+MHD,Asia
+UIK,Asia
+MEI,North America
+SPI,North America
+CEZ,North America
+HDN,North America
+GUP,North America
+LBL,North America
+LAA,North America
+GLD,North America
+COD,North America
+HOV,Europe
+ISC,Europe
+SGF,North America
+NVK,Europe
+BVG,Europe
+FBU,Europe
+NSK,Asia
+AAQ,Asia
+JLN,North America
+ABE,North America
+XNA,North America
+GUW,Asia
+KZO,Asia
+SBN,North America
+BKA,Asia
+ARH,Asia
+RTW,Asia
+NUX,Asia
+NOJ,Asia
+SCO,Asia
+UCT,Asia
+USK,Asia
+PEX,Asia
+NNM,Asia
+PKV,Asia
+KGP,Asia
+KJA,Asia
+KGF,Asia
+URJ,Asia
+IWA,Asia
+CGQ,Asia
+KIJ,Asia
+JON,Oceania
+SMD,North America
+ACV,North America
+OAJ,North America
+TCL,North America
+DBQ,North America
+HHP,Asia
+ATD,Oceania
+AKS,Oceania
+BAS,Oceania
+FRE,Oceania
+MBU,Oceania
+IRA,Oceania
+SCZ,Oceania
+MUA,Oceania
+GZO,Oceania
+MNY,Oceania
+RNL,Oceania
+RUS,Oceania
+VAO,Oceania
+KGE,Oceania
+RBV,Oceania
+BUA,Oceania
+CMU,Oceania
+DAU,Oceania
+GUR,Oceania
+PNP,Oceania
+HKN,Oceania
+UNG,Oceania
+KRI,Oceania
+KMA,Oceania
+KVG,Oceania
+MDU,Oceania
+MAS,Oceania
+MXH,Oceania
+MIS,Oceania
+TIZ,Oceania
+TBG,Oceania
+RAB,Oceania
+VAI,Oceania
+WBM,Oceania
+LLU,North America
+CNP,North America
+JFR,North America
+JGO,North America
+JJU,North America
+JSU,North America
+JNN,North America
+JNS,North America
+NAQ,North America
+JHS,North America
+JUV,North America
+JQA,North America
+GRY,Europe
+THO,Europe
+VPN,Europe
+YWS,North America
+YAA,North America
+YWM,North America
+YFX,North America
+YHA,North America
+YRG,North America
+YCK,North America
+YLE,North America
+SUR,North America
+YAX,North America
+WNN,North America
+YNO,North America
+XBE,North America
+KIF,North America
+YOG,North America
+YHP,North America
+YKU,North America
+ZTB,North America
+ZLT,North America
+YAC,North America
+YAG,North America
+XKS,North America
+YKG,North America
+YAT,North America
+YBE,North America
+YBX,North America
+YRF,North America
+YCS,North America
+YDP,North America
+YER,North America
+YFA,North America
+YFH,North America
+YMN,North America
+YGB,North America
+YGO,North America
+YGT,North America
+YGW,North America
+YGX,North America
+YGZ,North America
+YQC,North America
+CXH,North America
+YNS,North America
+YHO,North America
+YHR,North America
+YIK,North America
+YIV,North America
+AKV,North America
+YKQ,North America
+YPJ,North America
+YLC,North America
+YLH,North America
+XGR,North America
+YMH,North America
+YMT,North America
+YUD,North America
+YNC,North America
+YNE,North America
+YNL,North America
+YOH,North America
+YPH,North America
+YPM,North America
+YPO,North America
+YPW,North America
+YQD,North America
+YQN,North America
+YRA,North America
+YRL,North America
+YSF,North America
+YSK,North America
+YST,North America
+YTL,North America
+YVZ,North America
+YWP,North America
+YXN,North America
+YZG,North America
+ZAC,North America
+ILF,North America
+ZBF,North America
+ZEM,North America
+ZFD,North America
+ZGI,North America
+ZJN,North America
+ZKE,North America
+MSA,North America
+ZMT,North America
+ZPB,North America
+ZRJ,North America
+ZSJ,North America
+ZTM,North America
+ZUM,North America
+ZWL,North America
+BLJ,Africa
+CBH,Africa
+BMW,Africa
+ELU,Africa
+KMS,Africa
+HDF,Europe
+HEI,Europe
+HGL,Europe
+SJY,Europe
+NQT,Europe
+DSA,Europe
+CAL,Europe
+EOI,Europe
+FIE,Europe
+NRL,Europe
+PPW,Europe
+SOY,Europe
+NDY,Europe
+LWK,Europe
+WRY,Europe
+LEQ,Europe
+PZE,Europe
+VLY,Europe
+BRR,Europe
+CFN,Europe
+CNL,Europe
+LKN,Europe
+OSY,Europe
+MQN,Europe
+RVK,Europe
+RET,Europe
+SDN,Europe
+SOG,Europe
+SVJ,Europe
+SOJ,Europe
+VAW,Europe
+VRY,Europe
+BZG,Europe
+LCJ,Europe
+OSD,Europe
+HFS,Europe
+KSD,Europe
+TYF,Europe
+AGH,Europe
+SQO,Europe
+HMV,Europe
+VNT,Europe
+QRA,Africa
+MQP,Africa
+AAM,Africa
+MBD,Africa
+GNZ,Africa
+ORP,Africa
+SWX,Africa
+TLD,Africa
+DIS,Africa
+CIP,Africa
+YVA,Africa
+WAQ,Africa
+JVA,Africa
+BMD,Africa
+MXT,Africa
+TVA,Africa
+WTA,Africa
+WTS,Africa
+WAM,Africa
+WPB,Africa
+DWB,Africa
+WMP,Africa
+WMA,Africa
+MJA,Africa
+CBT,Africa
+DUE,Africa
+VPE,Africa
+MSZ,Africa
+KOU,Africa
+MJL,Africa
+TCH,Africa
+VPY,Africa
+SRH,Africa
+CMK,Africa
+LUD,Africa
+OND,Africa
+OMD,Africa
+SWP,Africa
+ERS,Africa
+BOA,Africa
+MAT,Africa
+INO,Africa
+NIO,Africa
+KRZ,Africa
+BSU,Africa
+TSH,Africa
+LJA,Africa
+PFR,Africa
+OUK,Europe
+GMZ,Europe
+BTE,Africa
+KBS,Africa
+KEN,Africa
+OXB,Africa
+SMW,Africa
+VIL,Africa
+ESU,Africa
+EUN,Africa
+NDR,Africa
+RAI,Africa
+SFL,Africa
+BCO,Africa
+BEI,Africa
+DSE,Africa
+DEM,Africa
+GDE,Africa
+GOR,Africa
+ABK,Africa
+MTF,Africa
+TIE,Africa
+ALU,Africa
+BSA,Africa
+MGQ,Africa
+GLK,Africa
+BUO,Africa
+AAC,Africa
+ATZ,Africa
+ASV,Africa
+LKG,Africa
+MYD,Africa
+NYK,Africa
+SRX,Africa
+TOB,Africa
+MJI,Africa
+LAQ,Africa
+ATB,Africa
+UYL,Africa
+PZU,Africa
+BKZ,Africa
+TKQ,Africa
+LDI,Africa
+MUZ,Africa
+SHY,Africa
+TBO,Africa
+RUA,Africa
+ULU,Africa
+DIU,Asia
+ABR,North America
+ABY,North America
+AHN,North America
+ALM,North America
+ALO,North America
+ALW,North America
+APN,North America
+ATY,North America
+BFD,North America
+BFF,North America
+BKW,North America
+BQK,North America
+BRL,North America
+CEC,North America
+CGI,North America
+CIU,North America
+CKB,North America
+CLM,North America
+CMX,North America
+DDC,North America
+DUJ,North America
+EAU,North America
+EKO,North America
+EWB,North America
+FAY,North America
+GGW,North America
+GRI,North America
+HOT,North America
+HTS,North America
+KIO,Oceania
+IRK,North America
+JMS,North America
+LAR,North America
+LBE,North America
+LBF,North America
+LEB,North America
+LMT,North America
+LNS,North America
+LWT,North America
+LYH,North America
+MKG,North America
+MLS,North America
+MSL,North America
+OTH,North America
+OWB,North America
+PIB,North America
+PIH,North America
+PIR,North America
+PLN,North America
+PSM,North America
+RDG,North America
+RHI,North America
+RKS,North America
+RUT,North America
+SBP,North America
+SHR,North America
+SLK,North America
+SLN,North America
+SMX,North America
+TUP,North America
+UIN,North America
+VCT,North America
+VLD,North America
+WRL,North America
+YKM,North America
+ECN,Asia
+RJL,Europe
+IDY,Europe
+ANE,Europe
+LTT,Europe
+JSY,Europe
+PEV,Europe
+SOB,Europe
+AOT,Europe
+QSR,Europe
+CVU,Europe
+BNX,Europe
+USQ,Asia
+KSY,Asia
+SFQ,Asia
+KCM,Asia
+AJI,Asia
+ADF,Asia
+ISE,Asia
+EDO,Asia
+SZF,Asia
+ILZ,Europe
+GDT,North America
+MDS,North America
+SLX,North America
+AZS,North America
+JBQ,North America
+PBR,North America
+AAZ,North America
+UTK,Oceania
+AHS,North America
+PEU,North America
+MIJ,Oceania
+CYW,North America
+CUA,North America
+GUB,North America
+JAL,North America
+CTD,North America
+ONX,North America
+JQE,North America
+PLP,North America
+TTQ,North America
+BCL,North America
+PBP,North America
+PJM,North America
+SYQ,North America
+JEE,North America
+PAX,North America
+TND,North America
+COX,North America
+ATC,North America
+TBI,North America
+CRI,North America
+PID,North America
+AIU,Oceania
+MGS,Oceania
+MHX,Oceania
+MUK,Oceania
+MOI,Oceania
+PYE,Oceania
+ICI,Oceania
+PTF,Oceania
+KDV,Oceania
+MNF,Oceania
+MFJ,Oceania
+NGI,Oceania
+LKB,Oceania
+LBS,Oceania
+TVU,Oceania
+KXF,Oceania
+RTA,Oceania
+SVU,Oceania
+EUA,Oceania
+HPA,Oceania
+NFO,Oceania
+NTT,Oceania
+VBV,Oceania
+IUE,Oceania
+FUT,Oceania
+MXS,Oceania
+APK,Oceania
+AHE,Oceania
+AUQ,Oceania
+UAP,Oceania
+UAH,Oceania
+MTV,Oceania
+SLH,Oceania
+TOH,Oceania
+EAE,Oceania
+CCV,Oceania
+LOD,Oceania
+SSR,Oceania
+PBJ,Oceania
+LPM,Oceania
+LNB,Oceania
+MWF,Oceania
+LNE,Oceania
+NUS,Oceania
+ZGU,Oceania
+RCL,Oceania
+SON,Oceania
+TGH,Oceania
+ULB,Oceania
+VLS,Oceania
+SWJ,Oceania
+OLJ,Oceania
+AUY,Oceania
+AWD,Oceania
+DLY,Oceania
+FTA,Oceania
+IPA,Oceania
+TGJ,Oceania
+BMY,Oceania
+ILP,Oceania
+FBD,Asia
+AJF,Asia
+WAE,Asia
+KHD,Asia
+BXR,Asia
+RJN,Asia
+BJB,Asia
+AFZ,Asia
+NSH,Asia
+SRY,Asia
+LRR,Asia
+ADU,Asia
+OMH,Asia
+AAN,Asia
+BNP,Asia
+BHV,Asia
+CJL,Asia
+DBA,Asia
+DEA,Asia
+DSK,Asia
+JIW,Asia
+HDD,Asia
+KDD,Asia
+ORW,Asia
+PAJ,Asia
+KDU,Asia
+SYW,Asia
+TUK,Asia
+ISU,Asia
+KAC,Asia
+GXF,Asia
+ADK,North America
+GST,North America
+SGY,North America
+HCR,North America
+HNS,North America
+KLG,North America
+MCG,North America
+MOU,North America
+ANI,North America
+VAK,North America
+WRG,North America
+OPU,Oceania
+VMU,Oceania
+LUP,North America
+ENT,Oceania
+LZN,Asia
+HCN,Asia
+MFK,Asia
+KUH,Asia
+OKD,Asia
+HSG,Asia
+NKM,Asia
+IWJ,Asia
+FKS,Asia
+ONJ,Asia
+SYO,Asia
+MYE,Asia
+KUV,Asia
+MPK,Asia
+WJU,Asia
+YNY,Asia
+HIN,Asia
+CJJ,Asia
+SFS,Asia
+CYU,Asia
+CGM,Asia
+JOL,Asia
+TWT,Asia
+SUG,Asia
+TDG,Asia
+WNP,Asia
+BSO,Asia
+SFE,Asia
+TUG,Asia
+VRC,Asia
+CYP,Asia
+CRM,Asia
+MBT,Asia
+RXS,Asia
+TTG,South America
+LHS,South America
+OES,South America
+ING,South America
+GGS,South America
+SST,South America
+NEC,South America
+JDO,South America
+LEC,South America
+MEA,South America
+MII,South America
+VDC,South America
+RIA,South America
+TOW,South America
+ESR,South America
+ZPC,South America
+SOD,South America
+SCY,South America
+LOH,South America
+ESM,South America
+PSY,Unknown
+CRC,South America
+LQM,South America
+LPD,South America
+NQU,South America
+PDA,South America
+EYP,South America
+GYA,South America
+PUR,South America
+RIB,South America
+REY,South America
+SRJ,South America
+ORG,South America
+MVS,South America
+CJA,South America
+HUU,South America
+NZC,South America
+SRA,South America
+MYC,South America
+VIG,South America
+JPR,South America
+BBQ,North America
+DSD,North America
+BBR,North America
+SFC,North America
+GBJ,North America
+NEV,North America
+VIJ,North America
+BQU,North America
+UNI,North America
+KOV,Asia
+PPK,Asia
+DZN,Asia
+UKK,Asia
+KSN,Asia
+KVD,Asia
+NAJ,Asia
+NER,Asia
+PYJ,Asia
+CKH,Asia
+CYX,Asia
+IKS,Asia
+KXK,Asia
+DYR,Asia
+OHO,Asia
+UJE,Oceania
+MPW,Europe
+VSG,Europe
+OZH,Europe
+KWG,Europe
+HRK,Europe
+IFO,Europe
+CWC,Europe
+RWN,Europe
+UDJ,Europe
+CSH,Asia
+CEE,Asia
+AMV,Asia
+KSZ,Asia
+PES,Asia
+GNA,Unknown
+MVQ,Unknown
+EIE,Asia
+KYZ,Asia
+NOZ,Asia
+HTG,Asia
+IAA,Asia
+NAL,Asia
+OGZ,Asia
+ESL,Asia
+WKK,North America
+BLF,North America
+GLH,North America
+PSC,North America
+KQA,North America
+LPS,North America
+SLY,Asia
+HMA,Asia
+NYA,Asia
+OVS,Asia
+IJK,Asia
+KVX,Asia
+NYM,Asia
+RAT,Asia
+NFG,Asia
+KRO,Asia
+LBD,Asia
+AZN,Asia
+FEG,Asia
+NMA,Asia
+NCU,Asia
+UGC,Asia
+KSQ,Asia
+TMJ,Asia
+RYB,Asia
+EGO,Asia
+URS,Asia
+LPK,Asia
+VKT,Asia
+UUA,Asia
+JOK,Asia
+CSY,Asia
+ULY,Asia
+OSW,Asia
+PEZ,Asia
+SKX,Asia
+BWO,Asia
+HBX,Asia
+KCT,Asia
+WRZ,Asia
+BBM,Asia
+SHL,Asia
+GAU,Asia
+DMU,Asia
+TEZ,Asia
+BZL,Asia
+HOE,Asia
+BHR,Asia
+BDP,Asia
+MEY,Asia
+KEP,Asia
+GAN,Asia
+HAQ,Asia
+KDO,Asia
+MAQ,Asia
+BMV,Asia
+HPH,Asia
+CXR,Asia
+VCS,Asia
+VCA,Asia
+DIN,Asia
+UIH,Asia
+PXU,Asia
+VII,Asia
+BMO,Asia
+TVY,Asia
+KAW,Asia
+LIW,Asia
+MNU,Asia
+BSX,Asia
+PKK,Asia
+SWQ,Asia
+TMC,Asia
+BUI,Asia
+SEH,Asia
+TJS,Asia
+DTD,Asia
+BEJ,Asia
+TJG,Asia
+SMQ,Asia
+LUV,Asia
+ARD,Asia
+BLG,Asia
+LGL,Asia
+ODN,Asia
+MKM,Asia
+BKM,Asia
+LWY,Asia
+BBN,Asia
+TMG,Asia
+KUD,Asia
+TKG,Asia
+HLP,Asia
+NTX,Asia
+PSU,Asia
+SQG,Asia
+PDO,Asia
+LSW,Asia
+PKG,Asia
+LBW,Asia
+NNX,Asia
+LPU,Asia
+ALH,Oceania
+GYL,Oceania
+AUU,Oceania
+BCI,Oceania
+BDD,Oceania
+BVI,Oceania
+BHQ,Oceania
+HTI,Oceania
+BEU,Oceania
+BRK,Oceania
+BUC,Oceania
+GIC,Oceania
+OKY,Oceania
+BQL,Oceania
+BHS,Oceania
+BLT,Oceania
+CVQ,Oceania
+CAZ,Oceania
+CPD,Oceania
+CNC,Oceania
+CNJ,Oceania
+CED,Oceania
+CTN,Oceania
+CMA,Oceania
+CNB,Oceania
+CUQ,Oceania
+OOM,Oceania
+DMD,Oceania
+NLF,Oceania
+DPO,Oceania
+ELC,Oceania
+EPR,Oceania
+FLS,Oceania
+GET,Oceania
+GLT,Oceania
+GTE,Oceania
+GFF,Oceania
+HID,Oceania
+HOK,Oceania
+MHU,Oceania
+HGD,Oceania
+JCK,Oceania
+KAX,Oceania
+KNS,Oceania
+KFG,Oceania
+KRB,Oceania
+KWM,Oceania
+KUG,Oceania
+LNO,Oceania
+LEL,Oceania
+LDH,Oceania
+IRG,Oceania
+LSY,Oceania
+LHG,Oceania
+LRE,Oceania
+LER,Oceania
+LVO,Oceania
+UBB,Oceania
+MKR,Oceania
+MIM,Oceania
+MGT,Oceania
+MNG,Oceania
+MCV,Oceania
+MQL,Oceania
+MMG,Oceania
+MRZ,Oceania
+MOV,Oceania
+MYA,Oceania
+MGB,Oceania
+ONG,Oceania
+MYI,Oceania
+MBH,Oceania
+NRA,Oceania
+NAA,Oceania
+NTN,Oceania
+ZNE,Oceania
+OLP,Oceania
+PUG,Oceania
+PMK,Oceania
+PBO,Oceania
+CCK,Oceania
+GOV,Oceania
+PKE,Oceania
+PLO,Oceania
+EDR,Oceania
+PQQ,Oceania
+PTJ,Oceania
+ULP,Oceania
+RAM,Oceania
+RMA,Oceania
+SGO,Oceania
+MJK,Oceania
+SBR,Oceania
+SRN,Oceania
+XTG,Oceania
+TCA,Oceania
+VCD,Oceania
+SYU,Oceania
+WNR,Oceania
+WYA,Oceania
+WUN,Oceania
+WOL,Oceania
+WIN,Oceania
+BWT,Oceania
+OKR,Oceania
+XMY,Oceania
+NAY,Asia
+CIF,Asia
+CIH,Asia
+DAT,Asia
+HET,Asia
+BAV,Asia
+SJW,Asia
+TGO,Asia
+HLH,Asia
+XIL,Asia
+BHY,Asia
+CGD,Asia
+DYG,Asia
+MXZ,Asia
+ZUH,Asia
+LZH,Asia
+ZHA,Asia
+ENH,Asia
+NNY,Asia
+XFN,Asia
+YIH,Asia
+AKA,Asia
+GOQ,Asia
+HZG,Asia
+IQN,Asia
+XNN,Asia
+ENY,Asia
+UYN,Asia
+AVK,Asia
+LTI,Asia
+BYN,Asia
+DLZ,Asia
+HVD,Asia
+MXV,Asia
+DIG,Asia
+LUM,Asia
+SYM,Asia
+ZAT,Asia
+KOW,Asia
+JDZ,Asia
+JIU,Asia
+JUZ,Asia
+LYG,Asia
+HYN,Asia
+LYI,Asia
+JJN,Asia
+TXN,Asia
+WEF,Asia
+WEH,Asia
+WUX,Asia
+WUS,Asia
+WNZ,Asia
+YNZ,Asia
+YIW,Asia
+HSN,Asia
+BPX,Asia
+DAX,Asia
+GYS,Asia
+LZO,Asia
+MIG,Asia
+NAO,Asia
+LZY,Asia
+WXN,Asia
+AKU,Asia
+IQM,Asia
+KCA,Asia
+KRL,Asia
+KRY,Asia
+YIN,Asia
+HEK,Asia
+JMU,Asia
+JNZ,Asia
+NDG,Asia
+YNJ,Asia
+WKL,North America
+WME,Oceania
+LRV,South America
+IOR,Europe
+NNR,Europe
+GTI,Europe
+EZV,Asia
+ORH,North America
+AQG,Asia
+SHP,Asia
+YCU,Asia
+JGN,Asia
+DDG,Asia
+DSN,Asia
+PZI,Asia
+PWT,North America
+SPW,North America
+JEF,North America
+UNT,Europe
+PVC,North America
+SBH,Europe
+KMW,Asia
+SUI,Asia
+TBW,Asia
+OBN,Europe
+ERM,South America
+CVF,Europe
+FUL,North America
+USA,North America
+NVI,Asia
+QSF,Africa
+LRH,Europe
+SUN,North America
+MCW,North America
+AZA,North America
+XAU,South America
+AKP,North America
+ANV,North America
+ATK,North America
+GAM,North America
+HPB,North America
+KAL,North America
+KSM,North America
+KVL,North America
+MYU,North America
+RBY,North America
+SHH,North America
+SVA,North America
+WTK,North America
+OMC,Asia
+YPX,North America
+YTQ,North America
+ARC,North America
+QOW,Africa
+FON,North America
+TMU,North America
+CYZ,Asia
+KVK,Asia
+GVR,South America
+KPC,North America
+PJA,Europe
+QBC,North America
+HGR,North America
+ACR,South America
+GOP,Asia
+SDP,North America
+HMI,Asia
+WUZ,Asia
+TBH,Asia
+ACP,Asia
+GBT,Asia
+IIL,Asia
+PFQ,Asia
+TCG,Asia
+MQM,Asia
+AFS,Asia
+DRG,North America
+LEN,Europe
+RGS,Europe
+EGM,Oceania
+CQD,Asia
+DHM,Asia
+NDC,Asia
+SLV,Asia
+IGG,North America
+KNW,North America
+KVC,North America
+PTH,North America
+TOG,North America
+EGN,Africa
+LKH,Asia
+WLH,Oceania
+CHG,Asia
+UAS,Africa
+BHG,North America
+YVB,North America
+SKT,Asia
+PDP,South America
+WVB,Africa
+MPA,Africa
+AOE,Asia
+CKZ,Asia
+MSR,Asia
+NOP,Asia
+TEQ,Asia
+YEI,Asia
+LSS,North America
+KMV,Asia
+VQS,North America
+YIF,North America
+HDM,Asia
+MRQ,Asia
+GFN,Oceania
+OAG,Oceania
+TRO,Oceania
+COQ,Asia
+HOH,Europe
+ESC,North America
+YAK,North America
+GUL,Oceania
+CES,Oceania
+NSO,Oceania
+DGE,Oceania
+MTL,Oceania
+CPX,North America
+MWA,North America
+OCN,Oceania
+KIK,Asia
+XJD,Asia
+GBZ,Oceania
+IMT,North America
+AET,North America
+MGC,North America
+SWD,North America
+GRM,North America
+AUW,North America
+MYP,Asia
+MVA,Europe
+QSA,Europe
+WSY,Oceania
+MIE,North America
+LAF,North America
+VGT,North America
+ENW,North America
+MTJ,North America
+RIW,North America
+PDT,North America
+LYM,Europe
+PKH,Europe
+KTR,Oceania
+NOA,Oceania
+UCK,Europe
+CEJ,Europe
+BQT,Unknown
+OSH,North America
+AGE,Europe
+BXG,Oceania
+EAT,North America
+ARE,North America
+RIN,Oceania
+KCK,Asia
+UKX,Asia
+RMT,Oceania
+QLS,Europe
+ZJI,Europe
+QNC,Europe
+TGK,Asia
+GDZ,Asia
+ZIA,Asia
+IAR,Asia
+OHE,Asia
+JNG,Asia
+DRK,North America
+AAT,Asia
+TZL,Europe
+FWH,North America
+NYT,Asia
+VBP,Asia
+NZH,Asia
+WUA,Asia
+GYY,North America
+BRD,North America
+LWB,North America
+PGV,North America
+CYF,North America
+OXR,North America
+BKG,North America
+TEN,Asia
+JGS,Asia
+NIU,Oceania
+SCH,North America
+NBC,Asia
+QRW,Africa
+IAO,Asia
+LGO,Europe
+NLP,Africa
+CKC,Europe
+UST,North America
+NLV,Europe
+RHP,Asia
+STS,North America
+ISM,North America
+LCQ,North America
+LGU,North America
+BMC,North America
+ASE,North America
+ULV,Asia
+ERV,North America
+GED,North America
+ZSW,North America
+GBD,North America
+HYS,North America
+SUS,North America
+LYU,North America
+GPZ,North America
+TVF,North America
+EGV,North America
+ARV,North America
+YBV,North America
+AVX,North America
+MHV,North America
+ZIN,Europe
+INQ,Europe
+SWT,Asia
+HUT,North America
+OAI,Asia
+AKH,Asia
+STJ,North America
+VOK,North America
+GUC,North America
+SIA,Asia
+TOA,North America
+MBL,North America
+PGD,North America
+WFK,North America
+JHW,North America
+YTM,North America
+SME,North America
+SHD,North America
+DVL,North America
+DIK,North America
+SDY,North America
+CDR,North America
+AIA,North America
+MCK,North America
+MTH,North America
+GDV,North America
+OLF,North America
+WYS,North America
+ALS,North America
+CNY,North America
+ELY,North America
+VEL,North America
+RUI,North America
+SOW,North America
+MYL,North America
+SMN,North America
+MMH,North America
+FRD,North America
+ESD,North America
+AST,North America
+ONP,North America
+EMK,North America
+UNK,North America
+UUK,North America
+SHX,North America
+CHU,North America
+NUI,North America
+EEK,North America
+KUK,North America
+KWT,North America
+KWK,North America
+MLL,North America
+RSH,North America
+KGK,North America
+KMO,North America
+CIK,North America
+EAA,North America
+HUS,North America
+HSL,North America
+NUL,North America
+VEE,North America
+WBQ,North America
+CEM,North America
+SHG,North America
+IYK,North America
+VIS,North America
+MCE,North America
+CYR,South America
+CPQ,South America
+GYR,North America
+TWB,Oceania
+BBL,Oceania
+AYK,Asia
+AGN,North America
+ELV,North America
+FNR,North America
+HNH,North America
+MTM,North America
+HYG,North America
+EGX,North America
+KPV,North America
+PIP,North America
+WSN,North America
+AKK,North America
+KYK,North America
+KLN,North America
+ABL,North America
+BKC,North America
+IAN,North America
+OBU,North America
+ORV,North America
+WLK,North America
+KTS,North America
+ELI,North America
+GLV,North America
+TLA,North America
+WAA,North America
+WMO,North America
+KKA,North America
+SMK,North America
+SKK,North America
+TNC,North America
+AKB,North America
+IKO,North America
+CYT,North America
+AUK,North America
+KPN,North America
+KFP,North America
+NLG,North America
+PML,North America
+KLW,North America
+KWN,North America
+KOT,North America
+KYU,North America
+SCM,North America
+NNL,North America
+KKH,North America
+NIB,North America
+AKI,North America
+AIN,North America
+APZ,South America
+RDS,South America
+PNT,South America
+SGV,South America
+IGB,South America
+NCN,North America
+TKJ,North America
+IRC,North America
+SLQ,North America
+LMA,North America
+MLY,North America
+YNP,North America
+YSO,North America
+YWB,North America
+YTF,North America
+YGV,North America
+YXK,North America
+XTL,North America
+XLB,North America
+XSI,North America
+YBT,North America
+ZGR,North America
+YCR,North America
+YRS,North America
+YOP,North America
+YBY,North America
+ZNA,North America
+YGG,North America
+YDT,North America
+YLY,North America
+YFJ,North America
+RNI,North America
+BZA,North America
+RFS,North America
+SIU,North America
+WSP,North America
+NCR,North America
+PLD,North America
+COZ,North America
+NEG,North America
+NRR,North America
+SPB,North America
+ARR,South America
+JSM,South America
+UYU,South America
+RBQ,South America
+ABF,Oceania
+ABN,South America
+DRJ,South America
+MOJ,South America
+ICK,South America
+OEM,South America
+SMZ,South America
+TOT,South America
+AGI,South America
+ORJ,South America
+NAI,South America
+IMB,South America
+KAR,South America
+USI,South America
+MHA,South America
+PJC,South America
+ACD,South America
+RVE,South America
+BQJ,Asia
+VGZ,South America
+EBG,South America
+CAQ,South America
+COG,South America
+TLU,South America
+CFB,South America
+OPS,South America
+GRP,South America
+CMP,South America
+BVS,South America
+SFK,South America
+PIN,South America
+BRA,South America
+STZ,South America
+MQH,South America
+AUX,South America
+NVP,South America
+FRC,South America
+DOU,South America
+LBR,South America
+ROO,South America
+GPB,South America
+JCB,South America
+RVD,South America
+AAX,South America
+MBZ,South America
+RBB,South America
+CIZ,South America
+BAZ,South America
+DMT,South America
+GNM,South America
+QDJ,Africa
+NZA,Africa
+LBZ,Africa
+KNP,Africa
+AMC,Africa
+GSQ,Africa
+MRB,North America
+AWA,Africa
+JIJ,Africa
+MKS,Africa
+DBM,Africa
+DBT,Africa
+QHR,Africa
+GOB,Africa
+MYB,Africa
+MRE,Africa
+JJM,Africa
+RBX,Africa
+CPA,Africa
+IHC,Africa
+MAX,Africa
+BDI,Africa
+WHF,Africa
+NBE,Africa
+HTY,Asia
+RVV,Oceania
+FUO,Asia
+HUZ,Asia
+ILD,Europe
+BIU,Europe
+GJR,Europe
+SAK,Europe
+IIA,Europe
+ULG,Asia
+KQT,Asia
+VGD,Asia
+ONK,Asia
+SYS,Asia
+LDG,Asia
+HSK,Europe
+CQM,Europe
+NJF,Asia
+CSA,Europe
+RKH,North America
+AGC,North America
+VQQ,North America
+FTY,North America
+TII,Asia
+ZAJ,Asia
+CCN,Asia
+FUG,Asia
+LCX,Asia
+BSD,Asia
+ACX,Asia
+HZH,Asia
+OSU,North America
+ADS,North America
+DSI,North America
+KHE,Europe
+SZS,Oceania
+HJJ,Asia
+YQI,North America
+ISO,North America
+FFA,North America
+LNJ,Asia
+CKS,South America
+MWK,Asia
+PGU,Asia
+YES,Asia
+OSM,Asia
+TJH,Asia
+AXJ,Asia
+KKX,Asia
+AGJ,Asia
+ULZ,Asia
+UGA,Asia
+ULO,Asia
+LBX,Asia
+TJU,Asia
+CMJ,Asia
+TAZ,Asia
+BWB,Oceania
+DRB,Oceania
+WGE,Oceania
+BRT,Oceania
+DKI,Oceania
+LZR,Oceania
+HLT,Oceania
+HCQ,Oceania
+FIZ,Oceania
+RVT,Oceania
+PVU,North America
+SBS,North America
+DTA,North America
+PUC,North America
+LAM,North America
+HII,North America
+INW,North America
+DGL,North America
+MZK,Oceania
+AEA,Oceania
+AAK,Oceania
+KUC,Oceania
+AIS,Oceania
+TMN,Oceania
+BEZ,Oceania
+NIG,Oceania
+BBG,Oceania
+MTK,Oceania
+MNK,Oceania
+NON,Oceania
+TSU,Oceania
+WTZ,Oceania
+KTF,Oceania
+AFT,Oceania
+RNA,Oceania
+CHY,Oceania
+NNB,Oceania
+XYA,Oceania
+BPF,Oceania
+BOW,North America
+FTI,Oceania
+LVK,North America
+RMY,North America
+GFY,Africa
+NDU,Africa
+TRM,North America
+SMO,North America
+UDD,North America
+SCF,North America
+OLM,North America
+RIL,North America
+SAA,North America
+PDK,North America
+BMG,North America
+SUA,North America
+MMU,North America
+APC,North America
+SDM,North America
+VNC,North America
+PHK,North America
+ECP,North America
+SBD,North America
+VAL,South America
+CAU,South America
+AWK,Oceania
+QNV,South America
+SQL,North America
+RWI,North America
+SXQ,North America
+SEE,North America
+PHA,Asia
+SQH,Asia
+TKF,North America
+FRJ,Europe
+GEX,Oceania
+LVM,North America
+GMV,North America
+JRA,North America
+LAL,North America
+SYH,Asia
+RBK,North America
+FNU,Europe
+MYQ,Asia
+MGY,North America
+FDY,North America
+PEA,Oceania
+EMP,Europe
+HYC,Europe
+BBP,Europe
+SPF,North America
+QYD,Europe
+OLV,North America
+KNA,South America
+ONQ,Asia
+BJC,North America
+SLE,North America
+UTM,North America
+ZKB,Africa
+LND,Europe
+MWC,North America
+JVL,North America
+LZU,North America
+BWG,North America
+RVS,North America
+NHD,Asia
+KGO,Europe
+DBB,Africa
+BCE,North America
+CKL,Asia
+TCZ,Asia
+UKS,Europe
+OAZ,Asia
+JCI,North America
+ESN,North America
+HMR,Europe
+MYV,North America
+DUC,North America
+UVA,North America
+LOT,North America
+CCR,North America
+OCA,North America
+YUS,Asia
+HIA,Asia
+YOO,North America
+LHA,Europe
+NYW,Asia
+ATO,North America
+SGH,North America
+HEX,North America
+CDA,Oceania
+JAB,Oceania
+HGS,Africa
+TOP,North America
+MQY,North America
+UOS,North America
+NGQ,Asia
+CSO,Europe
+PWK,North America
+KLS,North America
+ZTA,Oceania
+PUE,North America
+KHC,Europe
+UKA,Africa
+ILN,North America
+AVW,North America
+CGZ,North America
+BXK,North America
+MMI,North America
+STK,North America
+RWL,North America
+CDW,North America
+AIZ,North America
+TVI,North America
+HSH,North America
+GML,Europe
+TMA,North America
+RDO,Europe
+DVT,North America
+YRV,North America
+FRG,North America
+ZHY,Asia
+MCL,North America
+PPC,North America
+KHW,Africa
+TXG,Asia
+HLG,North America
+XYE,Asia
+DWC,Asia
+RKP,North America
+MVV,Europe
+MFX,Europe
+AEB,Asia
+OKF,Africa
+OKU,Africa
+KOQ,Europe
+PSH,Europe
+TTD,North America
+HIO,North America
+KHT,Asia
+NMT,Asia
+BNO,North America
+PRZ,North America
+RBL,North America
+NOT,North America
+LKV,North America
+OTK,North America
+ONO,North America
+DLS,North America
+GAI,North America
+OAS,Asia
+YTA,North America
+TSB,Africa
+YSD,North America
+BNU,South America
+YCC,North America
+IZA,South America
+MVL,North America
+RBD,North America
+BXY,Asia
+WST,North America
+BID,North America
+NME,North America
+OOK,North America
+OBY,North America
+VIN,Europe
+BGE,North America
+ZGS,North America
+ZKG,North America
+YBI,North America
+WHP,North America
+MAE,North America
+YZZ,North America
+YAB,North America
+GSI,South America
+MPY,South America
+LDX,South America
+KJI,Asia
+CPB,South America
+HMB,Africa
+RVY,South America
+POJ,South America
+JTC,South America
+OIA,South America
+RDC,South America
+SXX,South America
+BYO,South America
+SXO,South America
+CFC,South America
+CAF,South America
+ERN,South America
+CCI,South America
+FBE,South America
+CFO,South America
+AAF,North America
+UMU,South America
+DTI,South America
+FBA,South America
+OLC,South America
+HUW,South America
+IRZ,South America
+ORX,South America
+UNA,South America
+TEF,Oceania
+GZP,Asia
+OAA,Asia
+FPR,North America
+PYM,North America
+NCO,North America
+OWD,North America
+BAF,North America
+MGJ,North America
+HAR,North America
+DXR,North America
+ASH,North America
+LWM,North America
+OXC,North America
+RMG,North America
+GAD,North America
+WDR,North America
+DNN,North America
+LGC,North America
+PIM,North America
+GVL,North America
+PHD,North America
+HHH,North America
+DNL,North America
+MRN,North America
+PVL,North America
+TOC,North America
+PLV,Europe
+WUU,Africa
+HUE,Africa
+OYL,Africa
+OZG,Africa
+WYE,Africa
+GBK,Africa
+THX,Asia
+TGP,Asia
+AFW,North America
+RMK,Oceania
+LGH,Oceania
+RTS,Oceania
+FOS,Oceania
+KEW,North America
+YSP,North America
+YHF,North America
+YHN,North America
+YKX,North America
+YMG,North America
+YXZ,North America
+YEM,North America
+LWC,North America
+PPM,North America
+XMC,Oceania
+ULH,Asia
+YUE,Oceania
+LOP,Asia
+ZMH,North America
+HDG,Asia
+LOZ,North America
+FBG,North America
+WMI,Europe
+JXA,Asia
+JDG,Asia
+YGM,North America
+EYK,Asia
+RAC,North America
+RZP,Asia
+RKZ,Asia
+TIW,North America
+GUF,North America
+IBB,South America
+HMJ,Europe
+HIW,Asia
+KYI,Oceania
+HZL,North America
+CBE,North America
+WYN,Oceania
+YBO,North America
+KLF,Asia
+LNR,North America
+JOT,North America
+VYS,North America
+JXN,North America
+BBX,North America
+OBE,North America
+SEF,North America
+AVO,North America
+GIF,North America
+ZPH,North America
+OCF,North America
+AIK,North America
+CDN,North America
+LBT,North America
+SOP,North America
+SVH,North America
+LHV,North America
+BKL,North America
+DKK,North America
+LLY,North America
+LDJ,North America
+ANQ,North America
+CLW,North America
+CGX,North America
+CRE,North America
+BXO,Europe
+WBW,North America
+LNN,North America
+UMD,North America
+RLK,Asia
+FFT,North America
+LEW,North America
+MRK,North America
+DRE,North America
+GDW,North America
+MFI,North America
+ISW,North America
+CWI,North America
+BVY,North America
+OSF,Asia
+YRQ,North America
+POF,North America
+EOK,North America
+PSL,Europe
+STP,North America
+SOO,Europe
+VNA,Asia
+DKS,Asia
+BYT,Europe
+ADY,Africa
+HAO,North America
+GAS,Africa
+HOA,Africa
+KEY,Africa
+ILU,Africa
+ATJ,Africa
+OVA,Africa
+UTS,Asia
+RGK,Asia
+FLD,North America
+STE,North America
+MQJ,Asia
+PEF,Europe
+CJN,Asia
+GQQ,North America
+TPN,South America
+PTZ,South America
+CKV,North America
+LPC,North America
+CTH,North America
+BST,Asia
+LLK,Asia
+GBB,Asia
+ZTU,Asia
+LKP,North America
+KDY,Asia
+GYG,Asia
+JIQ,Asia
+AOH,North America
+DSO,Asia
+SSI,North America
+BFP,North America
+GGE,North America
+HDI,North America
+RNT,North America
+POC,North America
+CTY,North America
+CEU,North America
+BEC,North America
+QFO,Europe
+SNY,North America
+GKL,Oceania
+RPB,Oceania
+IFL,Oceania
+JRF,North America
+BIN,Asia
+NBS,Asia
+RGO,Asia
+MOO,Oceania
+LUZ,Europe
+ECA,North America
+VAM,Asia
+LLF,Asia
+LSZ,Europe
+ONS,Oceania
+TDR,Oceania
+WBU,North America
+BBJ,Europe
+PAO,North America
+USR,Asia
+MSC,North America
+YTY,Asia
+PTK,North America
+KSI,Africa
+EEN,North America
+THQ,Asia
+VRO,North America
+GKK,Asia
+RCS,Europe
+RHD,South America
+KMP,Africa
+KGT,Asia
+VUS,Asia
+IOW,North America
+TLQ,Asia
+ANP,North America
+FXO,Africa
+ODO,Asia
+ZTR,Europe
+HRI,Asia
+PEQ,North America
+HBG,North America
+QCJ,South America
+QSC,South America
+YKN,North America
+XSB,Asia
+ZBM,North America
+KTI,Asia
+GYU,Asia
+CNI,Asia
+KRH,Europe
+JGD,Asia
+CCL,Oceania
+HWD,North America
+MZP,Oceania
+JHQ,Oceania
+ARB,North America
+SHT,Oceania
+TEM,Oceania
+GAH,Oceania
+WIO,Oceania
+BFJ,Asia
+ULK,Asia
+KVR,Asia
+IGD,Asia
+GNY,Asia
+KZR,Asia
+VLU,Asia
+BEO,Oceania
+BMP,Oceania
+NGZ,North America
+YCN,North America
+BJP,South America
+BQB,Oceania
+SEK,Asia
+IVR,Oceania
+GLI,Oceania
+IMM,North America
+TQQ,Asia
+YIC,Asia
+PTB,North America
+SBM,North America
+KFE,Oceania
+BJU,Asia
+MZJ,North America
+SAD,North America
+SLJ,Oceania
+KJP,Asia
+EKB,Asia
+SIK,North America
+TTI,Oceania
+GFL,North America
+MTN,North America
+FRY,North America
+NEW,North America
+COE,North America
+BMT,North America
+DNV,North America
+COJ,Oceania
+TIX,North America
+BZH,Africa
+UAR,Africa
+NYE,Africa
+AAP,North America
+FCM,North America
+LIX,Africa
+OJC,North America
+GIU,Asia
+EUM,Europe
+TKT,Asia
+YLK,North America
+YCM,North America
+YPD,North America
+MNZ,North America
+LJN,North America
+BGG,Asia
+KFS,Asia
+LLV,Asia
+DCY,Asia
+GXH,Asia
+CIY,Europe
+KVM,Asia
+ZKP,Asia
+UMS,Asia
+ADH,Asia
+OLZ,Asia
+NLT,Asia
+PTA,North America
+BOR,Europe
+OBC,Africa
+TDJ,Africa
+AQB,North America
+NOR,Europe
+BTZ,Asia
+WAR,Asia
+EWK,North America
+BSJ,Oceania
+TZR,North America
+FBR,North America
+CLS,North America
+EVW,North America
+EUF,North America
+MEO,North America
+AUO,North America
+DBN,North America
+PUK,Oceania
+CVO,North America
+PXH,Oceania
+CWT,Oceania
+OGD,North America
+AKO,North America
+SHN,North America
+WNA,North America
+PKA,North America
+YBW,North America
+WSO,South America
+WKR,North America
+GFO,South America
+DYL,North America
+TGI,South America
+TJL,South America
+YZY,Asia
+OAL,South America
+OCW,North America
+MHC,South America
+SWO,North America
+OKM,North America
+CUH,North America
+CSM,North America
+WLD,North America
+PWA,North America
+DTN,North America
+SEP,North America
+ADT,North America
+IRB,North America
+YEL,North America
+IKB,North America
+DAN,North America
+ERG,Asia
+HCW,North America
+BEM,Africa
+NKT,Asia
+SUY,Asia
+OUZ,Africa
+ABB,Africa
+QUO,Africa
+KAA,Africa
+SGX,Africa
+JUH,Asia
+AOG,Asia
+DQA,Asia
+ZYI,Asia
+LDS,Asia
+AVA,Asia
+KSS,Africa
+WTB,Oceania
+TNH,Asia
+SZV,Asia
+LII,Asia
+NTI,Asia
+WSR,Asia
+DTB,Asia
+MEQ,Asia
+BUW,Asia
+KAZ,Asia
+MNA,Asia
+SGQ,Asia
+BUU,Asia
+ILA,Asia
+OKL,Asia
+KOX,Asia
+CMQ,Oceania
+WMB,Oceania
+RCM,Oceania
+DCN,Oceania
+KNO,Asia
+AMN,North America
+HMY,Asia
+EMT,North America
+FAH,Asia
+IXT,Asia
+KRQ,Europe
+QKX,Europe
+SSF,North America
+JAS,North America
+MRF,North America
+ALE,North America
+BQE,Africa
+CZA,North America
+BUY,Oceania
+CCB,North America
+EKI,North America
+CUB,North America
+GDC,North America
+HVS,North America
+SZT,North America
+DU9,North America
+RIH,North America
+LEE,North America
+PPY,South America
+DIQ,South America
+EIK,Asia
+ERD,Europe
+BWX,Asia
+ERL,Asia
+CNO,North America
+HTR,Asia
+BWW,North America
+PRB,North America
+PKX,Asia
+HAF,North America
+HCJ,Asia
+WJF,North America
+CJF,Oceania
+GUZ,South America
+UBT,South America
+BOX,Oceania
+QUG,Europe
+TNW,South America
+FYJ,Asia
+PZL,Africa
+LPF,Asia
+KJH,Asia
+HPG,Asia
+ZQZ,Asia
+YIE,Asia
+HNY,Asia
+AHJ,Asia
+WOS,Asia
+IGT,Asia
+ASN,North America
+GMU,North America
+NGD,North America
+TOI,North America
+ETS,North America
+EFG,Oceania
+KGW,Oceania
+NDN,Oceania
+BNM,Oceania
+ALX,North America
+PKT,Oceania
+GPN,Oceania
+DOH,Asia
+HZP,North America
+HDE,North America
+PTT,North America
+LXN,North America
+CBF,North America
+OKK,North America
+GBG,North America
+GUY,North America
+IDP,North America
+BBC,North America
+PRX,North America
+CFV,North America
+GXY,North America
+OEL,North America
+FET,North America
+LGD,North America
+SZY,Europe
+MPO,North America
+UKT,North America
+YBA,North America
+BNG,North America
+OFK,North America
+TFL,South America
+TPF,North America
+BZC,South America
+ITP,South America
+REZ,South America
+KBN,Africa
+IKL,Africa
+AIR,South America
+JRN,South America
+JIA,South America
+VLP,South America
+JUA,South America
+CCX,South America
+TGQ,South America
+CQA,South America
+MTG,South America
+BMB,Africa
+APQ,South America
+FLB,South America
+PCS,South America
+BNC,Africa
+BNB,Africa
+MTP,North America
+VPZ,North America
+DRV,Asia
+SXK,Asia
+MLZ,South America
+PDU,South America
+ATI,South America
+HSM,Oceania
+SWH,Oceania
+TTL,Oceania
+KWB,Asia
+KOO,Africa
+AOU,Asia
+SQX,South America
+LDM,North America
+RHV,North America
+OHS,Asia
+KCF,Asia
+RZS,Asia
+TMF,Asia
+IFU,Asia
+KZF,Oceania
+OGU,Asia
+YKO,Asia
+BUT,Asia
+TLI,Asia
+TQL,Asia
+JIC,Asia
+BPL,Asia
+FYN,Asia
+ACS,Asia
+LFQ,Asia
+YJP,North America
+WVI,North America
+GLU,Asia
+HLI,North America
+DLK,Oceania
+YBS,North America
+RIZ,Asia
+SQJ,Asia
+XTO,Oceania
+YSE,North America
+YAH,North America
+YAL,North America
+YCE,North America
+YCQ,North America
+XRR,North America
+YDO,North America
+YEY,North America
+YHE,North America
+YHT,North America
+YDG,North America
+YJF,North America
+YKJ,North America
+YLR,North America
+YME,North America
+YML,North America
+YOS,North America
+YPS,North America
+YQS,North America
+YRO,North America
+YSH,North America
+YSL,North America
+YVE,North America
+YXQ,North America
+YSN,North America
+KES,North America
+XPK,North America
+ZGF,North America
+ZJG,North America
+YTD,North America
+PIW,North America
+XPP,North America
+WPC,North America
+ZST,North America
+ZUC,North America
+FNB,Europe
+FSS,Europe
+BXP,Europe
+DGP,Europe
+LMR,Africa
+SXN,Africa
+NDD,Africa
+MAI,Africa
+ADI,Africa
+MWE,Africa
+ALN,North America
+AXN,North America
+CLU,North America
+BBD,North America
+BIH,North America
+BKE,North America
+BPI,North America
+WMH,North America
+BTL,North America
+BYI,North America
+CCY,North America
+CNU,North America
+CRG,North America
+CSV,North America
+DAA,North America
+DAG,North America
+DMN,North America
+DRA,North America
+EED,North America
+EGI,North America
+EKA,North America
+HYR,North America
+JCT,North America
+LOL,North America
+MBG,North America
+MCB,North America
+MDH,North America
+MMT,North America
+NHZ,North America
+NRB,North America
+OGB,North America
+OTM,North America
+OZR,North America
+PWY,North America
+POU,North America
+RSL,North America
+RWF,North America
+SNS,North America
+TPH,North America
+UKI,North America
+UOX,North America
+HTV,North America
+VTN,North America
+WMC,North America
+WWR,North America
+ZZV,North America
+ECV,Europe
+CDT,Europe
+TEV,Europe
+QLP,Europe
+BJY,Europe
+RUV,North America
+XPL,North America
+UPL,North America
+QSN,North America
+SNJ,North America
+DWD,Asia
+KMX,Asia
+XXN,Asia
+KNR,Asia
+PYK,Asia
+XIJ,Asia
+ATG,Asia
+SGI,Asia
+RQW,Asia
+ENN,North America
+WWA,North America
+IWK,Asia
+IEJ,Asia
+AAV,Asia
+BPH,Asia
+MXI,Asia
+BAT,South America
+QHP,South America
+TOQ,South America
+CNR,South America
+TLX,South America
+ZIC,South America
+TTC,South America
+API,South America
+CVE,South America
+PAL,South America
+PZA,South America
+TQS,South America
+RIJ,South America
+JAE,South America
+IKU,Asia
+VYI,Asia
+BGN,Asia
+GVN,Asia
+NLI,Asia
+VLK,Asia
+INA,Asia
+ZIX,Asia
+RTC,Asia
+HIM,Asia
+RDP,Asia
+PUT,Asia
+LNX,Asia
+ABH,Oceania
+ARY,Oceania
+BLN,Oceania
+BZD,Oceania
+BWQ,Oceania
+CVC,Oceania
+CWW,Oceania
+CYG,Oceania
+CMD,Oceania
+DRN,Oceania
+DNQ,Oceania
+DYA,Oceania
+ECH,Oceania
+FRB,Oceania
+GUH,Oceania
+HXX,Oceania
+HTU,Oceania
+KRA,Oceania
+KPS,Oceania
+KGY,Oceania
+TGN,Oceania
+MRG,Oceania
+RPM,Oceania
+QRM,Oceania
+PPI,Oceania
+SIO,Oceania
+SNB,Oceania
+SWC,Oceania
+TYB,Oceania
+TUM,Oceania
+WGT,Oceania
+WKB,Oceania
+QRR,Oceania
+SXE,Oceania
+WWY,Oceania
+NGA,Oceania
+LHK,Asia
+WDS,Asia
+HTT,Asia
+UUN,Asia
+BFU,Asia
+RUG,Asia
+WHU,Asia
+SXJ,Asia
+YKH,Asia
+BQG,Asia
+HYD,Asia
+PKO,Africa
+KDC,Africa
+HMG,Oceania
+BIB,Africa
+KCS,Oceania
+BMR,Europe
+MVW,North America
+GOO,Oceania
+APT,North America
+DCU,North America
+GLW,North America
+DKV,Oceania
+RNZ,North America
+SBT,Asia
+AXF,Asia
+NIS,Oceania
+BUL,Oceania
+TBR,North America
+AMT,Oceania
+EDD,Oceania
+FIK,Oceania
+JJG,South America
+WKI,Africa
+KLJ,Europe
+ETB,North America
+GLR,North America
+AID,North America
+QND,Europe
+GUU,Europe
+PCD,North America
+OTJ,Africa
+TSM,North America
+RTN,North America
+PPA,North America
+FLP,North America
+BGD,North America
+HLE,Europe
+BNJ,Europe
+NGK,Asia
+SQA,North America
+HXD,Asia
+BAR,Asia
+ZBO,Oceania
+UCB,Asia
+KEO,Africa
+GII,Africa
+NZE,Africa
+OCM,Oceania
+WGN,Asia
+TXF,South America
+SPA,North America
+BJW,Asia
+NBN,Africa
+OLL,Africa
+PPF,North America
+PCQ,Asia
+AYS,North America
+DSS,Africa
+PMH,North America
+NAC,Oceania
+PGZ,South America
+PQM,North America
+CUD,Oceania
+CLP,North America
+JOJ,North America
+ECI,North America
+QGQ,North America
+QPW,North America
+QJE,North America
+XIQ,North America
+QQT,North America
+QJI,North America
+QFG,North America
+QRY,North America
+NPR,South America
+SMT,South America
+ENO,South America
+UZR,Asia
+NYR,Asia
+SUK,Asia
+UKG,Asia
+VHV,Asia
+DEE,Asia
+EKS,Asia
+TLK,Asia
+RDB,North America
+ION,Africa
+EBH,Africa
+ZIS,Africa
+MYZ,Africa
+BCU,Africa
+GMO,Africa
+KDA,Africa
+SHO,Africa
+KIY,Africa
+QSI,Africa
+MNS,Africa
+GZI,Asia
+DBC,Asia
+LNL,Asia
+SQD,Asia
+YSQ,Asia
+JSJ,Asia
+WMT,Asia
+LLB,Asia
+CDE,Asia
+DTU,Asia
+EJN,Asia
+RHT,Asia
+HUO,Asia
+GMQ,Asia
+QSZ,Asia
+TEI,Asia
+CWJ,Asia
+JMJ,Asia
+NLH,Asia
+PBQ,South America
+WUT,Asia
+NZL,Asia
+AIP,Asia
+VDY,Asia
+SAG,Asia
+PYB,Asia
+SUP,Asia
+RKO,Asia
+PPR,Asia
+TJB,Asia
+KRC,Asia
+NRE,Asia
+NAM,Asia
+DOB,Asia
+SQN,Asia
+AYW,Asia
+BYQ,Asia
+UOL,Asia
+RAQ,Asia
+JSK,Asia
+ZBY,Asia
+BGL,Asia
+RJB,Asia
+DQM,Asia
+CKI,Oceania
+BYP,Oceania
+LUC,Oceania
+YAS,Oceania
+WIK,Oceania
+DEX,Asia
+NAU,Oceania
+FAC,Oceania
+NUK,Oceania
+VHZ,Oceania
+HHZ,Oceania
+RRR,Oceania
+KHZ,Oceania
+TKV,Oceania
+TDS,Oceania
+TMH,Asia
+NKB,Oceania
+AEI,Europe
+KSE,Africa
+NCJ,South America
+IST,Asia
+SOV,North America
+YSG,North America
+DWA,Africa
+HGI,Africa
+KQH,Asia
+CNN,Asia
+ZCO,South America
+ASS,Africa
+VDI,North America
+ISB,Asia
+MHE,North America
+GIT,Africa
+GID,Africa
+RMU,Europe
+CQS,South America
+ZXT,Asia
+JAM,Europe
+YUA,Asia
+XEN,Asia
+GEC,Asia
+MBI,Africa
+UGU,Asia
+ETM,Asia
+MNH,Asia
+CGY,Asia
+CPO,South America

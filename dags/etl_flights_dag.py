@@ -1,6 +1,10 @@
 from airflow import DAG
-from airflow.operators.bash import BashOperator
 from datetime import datetime, timedelta
+from airflow.operators.python import PythonOperator
+import sys
+import os
+from transform.process_flights import calculate_top_active_flight_company
+sys.path.append(os.path.abspath(os.path.dirname(__file__) + "/.."))
 
 default_args = {
     'owner': 'airflow',
@@ -17,14 +21,7 @@ with DAG(
     catchup=False
 ) as dag:
 
-    extract = BashOperator(
-        task_id='extract_flights',
-        bash_command='python /path/to/extract/extract_flights.py'
+    kpi_1 = PythonOperator(
+        task_id='kpi_1',
+        python_callable=calculate_top_active_flight_company
     )
-
-    transform = BashOperator(
-        task_id='process_flights',
-        bash_command='python /path/to/transform/process_flights_spark.py /path/to/latest.csv'
-    )
-
-    extract >> transform
