@@ -15,7 +15,7 @@ def get_continent_from_airport_iata():
     )
     airports_df = airports_df[airports_df["IATA"] != r'\N']
     airports_df["Continent"] = airports_df["Country"].apply(get_continent)
-    airports_df = airports_df[["IATA", "Continent"]].dropna()
+    airports_df = airports_df[["IATA", "Continent", "Latitude", "Longitude"]].dropna()
     airports_df.to_csv("data/ref/airports_continents.csv", index=False)
 
 

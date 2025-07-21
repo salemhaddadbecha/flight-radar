@@ -1,15 +1,12 @@
-import time
-from pyspark.sql.types import StructType, StructField, StringType
-from pyspark.sql.functions import col, count, desc, when, udf, row_number
+from pyspark.sql.functions import col, count, desc, row_number
 from pyspark.sql.window import Window
 from configs.spark_config import spark
 from datetime import datetime
 import pytz
 from extract.extract_airlines import extract_airlines
-from utils.functions import  get_latest_csv_file
-from extract.extract_flights import extract_flights
-from extract.extract_airports import get_continent_from_airport_iata
+from utils.functions import load_airport, data_cleaning
 import logging
+
 logger = logging.getLogger(__name__)
 now = datetime.now(pytz.timezone("Europe/Paris"))
 # Configurer le logger
@@ -22,56 +19,6 @@ logging.basicConfig(
     ]
 )
 
-def data_cleaning(df):
-    # Get count of non null values per column
-    non_null_counts = df.select([
-        count(when(col(c).isNotNull() & (col(c) != ""), c)).alias(c)
-        for c in df.columns
-    ])
-
-    non_null_dict = non_null_counts.collect()[0].asDict()
-
-    columns_to_keep = [col for col, count in non_null_dict.items() if count > 0]
-
-    return df.select(columns_to_keep)
-
-
-def calculate_top_active_flight_company(input_path):
-    """
-    KPI_1: La compagnie avec le + de vols en cours
-    """
-    flights = spark.read.option("header", True).csv(input_path)
-    flights = data_cleaning(flights)
-    flights_cleaned = flights.filter(
-        (col("airline_iata").isNotNull()) &
-        (col("on_ground") == "0")  # 1 au sol; 0 en vol.
-
-    )
-
-    airlines = extract_airlines()
-
-    joined_df = flights_cleaned.join(
-        airlines,
-        flights_cleaned["airline_iata"] == airlines["IATA"],
-        how="left"
-    )
-
-    top_company  = (
-        joined_df.groupBy("name")
-        .agg(count("*").alias("nb_vols"))
-        .orderBy(desc("nb_vols")).limit(1)
-    )
-
-    top_company.coalesce(1).write.mode("overwrite").option("header", True).csv("data/indicators/kpi_1_company_vols")
-    logger.info(f"KPI 1 calculé")
-    spark.stop()
-
-
-
-def build_airport_continent_mapping():
-    get_continent_from_airport_iata()
-    return spark.read.option("header", True).csv("data/ref/airports_continents.csv")
-
 def process_flights_by_continent(input_path):
     """KPI2 - Top compagnie aérienne par continent (vols intra-continent)"""
     try:
@@ -79,7 +26,7 @@ def process_flights_by_continent(input_path):
         flights = data_cleaning(flights)
 
         # Mapping des aéroports -> continents
-        airport_continents = build_airport_continent_mapping()
+        airport_continents = load_airport()
         logger.info("Mapping aéroports/continents effectué.")
 
         flights = (
@@ -128,10 +75,3 @@ def process_flights_by_continent(input_path):
         logger.error(f"Erreur lors du processing : {e}", exc_info=True)
     finally:
         spark.stop()
-
-if __name__ == "__main__":
-    extract_flights()
-    base_path = "C:/Users/salem/PycharmProjects/haddad-salem-flight-radar-bb3eeff6-a6c0-4e44-9cc8-68bc2d2189f3/data/Flights/rawzone"
-    input_path = get_latest_csv_file(base_path)
-    #calculate_top_active_flight_company(input_path)
-    #process_flights_by_continent(input_path)

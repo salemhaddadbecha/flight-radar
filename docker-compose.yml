@@ -9,7 +9,7 @@ services:
       - ./logs:/opt/airflow/logs
       - ./data:/opt/airflow/data
       - .:/opt/airflow
-      - ./transform:/opt/airflow/transform
+      - ./kpis:/opt/airflow/kpis
       - ./extract:/opt/airflow/extract
       - ./utils:/opt/airflow/utils
       - ./configs:/opt/airflow/configs
