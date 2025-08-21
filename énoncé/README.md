@@ -40,7 +40,7 @@ Le job doit donc être
 
 > **Pour le rendu, Poussez sur une nouvelle branche git, ouvrez une merge request vers Main, et notifiez votre interlocuteur par message que le kata est fini.
 
-![flightradarimage](media-assets/flightradar.png)
+![flightradarimage](flightradar.png)
 
 
 # Contexte & motivation derrière le kata
